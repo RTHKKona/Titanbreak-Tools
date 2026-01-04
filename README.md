@@ -1,5 +1,5 @@
 # Titanbreak Suite
-A unified GUI suite for editing various binary game data files. This suite streamlines the process of modifying game statistics, loot tables, and entity behaviors through a user-friendly tabbed interface.
+A unified GUI suite for editing various binary game data files inside of MHGU. This suite streamlines the process of modifying game stats, loot tables, and entity behaviors through a "user-friendly" interface.
 
 
 ## Table of Contents
