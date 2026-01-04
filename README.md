@@ -1,7 +1,9 @@
 # Titanbreak Suite
 A unified GUI suite for editing various binary game data files. This suite streamlines the process of modifying game statistics, loot tables, and entity behaviors through a user-friendly tabbed interface.
 
+
 ## Table of Contents
+* Acknowledgements
 * Features
 * Installation
 * Usage
@@ -9,31 +11,46 @@ A unified GUI suite for editing various binary game data files. This suite strea
 * Contribution
 * License
 
+## Acknowledgements
+Thanks to :
+Fexty for the item list and monster name/list data.
+DBone for doing the initial monster research for tool creation.
+Kiranico for stagger zone determination.
+
 ## Features
 The Titanbreak Suite consists of a central launcher that provides access to five distinct editing tools, all sharing a common dark-themed UI.
 
 1. Enrage Editor
+
 Edit enrage parameters such as Speed, Attack, and Defense.
 Supports bulk percentage adjustments (e.g., +20% Attack).
 Custom multiplier and literal value inputs.
 Scans for em*_*_dttune.48E8AC29 files.
+
 2. HP Editor
+
 Modify Base Health points for monsters and endemic life.
 Scale HP by fixed multipliers or add/subtract specific values.
 Filtering options to show only Monsters, Endemic Life, or specific Variants.
 Import/Export functionality for data management.
+
 3. Loot Editor (Hagi)
+
 Edit monster drop loot tables.
 Modify drop probabilities and item quantities.
 Supports CSV Export/Import for bulk editing.
 Sort monsters alphabetically or by ID.
 Filters for Regular Monsters (em) and Endemic Life (ems).
+
 4. Stagger Editor
+
 Adjust stagger thresholds for different monster parts (Head, Wings, Legs, etc.).
 Displays values alongside calculated Part HP.
 Bulk adjustment tools (Percentage, Multiplier, Add/Subtract).
 Supports selecting multiple columns for simultaneous editing.
+
 5. Resident (RDB) Editor
+
 Edit resident database stats including Corpse Despawn timers, Rage Duration, and Vulnerability Timers.
 Displays values in both raw frames and seconds.
 Includes backup functionality to prevent data loss.
