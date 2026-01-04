@@ -1,0 +1,2990 @@
+1 	Book of Combos 1
+2 	Book of Combos 2
+3 	Book of Combos 3
+4 	Book of Combos 4
+5 	Book of Combos 5
+6 	Organizer Guide
+7 	Pack Rat Guide
+8 	Binoculars
+9 	Potion
+10 	Mega Potion
+11 	Nutrients
+12 	Mega Nutrients
+13 	Antidote
+14 	Immunizer
+15 	Dash Juice
+16 	Mega Dash Juice
+17 	Demondrug
+18 	Mega Demondrug
+19 	Might Pill
+20 	Armorskin
+21 	Mega Armorskin
+22 	Adamant Pill
+23 	Cool Drink
+24 	Hot Drink
+25 	Cleanser
+26 	Psychoserum
+27 	Herbal Medicine
+28 	Max Potion
+29 	Ancient Potion
+30 	Energy Drink
+31 	Lifepowder
+32 	Dust of Life
+33 	Hunter's Drink
+34 	Catalyst
+35 	Gunpowder
+36 	Lifecrystals
+37 	Tranquilizer
+38 	Yukumo Egg
+39 	Tanzia Chips
+40 	Powercharm
+41 	Powertalon
+42 	Armorcharm
+43 	Armortalon
+44 	BBQ Spit
+45 	Raw Meat
+46 	Poisoned Meat
+47 	Tinged Meat
+48 	Drugged Meat
+49 	Rare Steak
+50 	Well-done Steak
+51 	Burnt Meat
+52 	Chilled Meat
+53 	Hot Meat
+54 	Mosswine Jerky
+55 	Kingmeat
+56 	Whetstone
+57 	Old Pickaxe
+58 	Iron Pickaxe
+59 	Mega Pickaxe
+60 	Old Bug Net
+61 	Bug Net
+62 	Mega Bug Net
+63 	Boomerang
+64 	Throwing Knife
+65 	Poison Knife
+66 	Sleep Knife
+67 	Paralysis Knife
+68 	Tranq Knife
+69 	Bomb Casing
+70 	Paintball
+71 	Flash Bomb
+72 	Sonic Bomb
+73 	Tranq Bomb
+74 	Deodorant
+75 	Smoke Bomb
+76 	Poison Smoke Bomb
+77 	Farcaster
+78 	Dung Bomb
+79 	Dung
+80 	Trap Tool
+81 	Spider Web
+82 	Net
+83 	Pitfall Trap
+84 	Shock Trap
+85 	Barrel Lid
+86 	Small Barrel
+87 	Large Barrel
+88 	Barrel Bomb S
+89 	Barrel Bomb L
+90 	Barrel Bomb L+
+91 	Bounce Bomb
+92 	Bounce Bomb+
+93 	(No Item)
+94 	Affinity Oil
+95 	Destroyer Oil
+96 	Stamina Oil
+97 	Mind's Eye Oil
+98 	Huskberry
+99 	Bone Husk
+100 	Normal S Lv1
+101 	Normal S Lv2
+102 	Normal S Lv3
+103 	Pierce S Lv1
+104 	Pierce S Lv2
+105 	Pierce S Lv3
+106 	Pellet S Lv1
+107 	Pellet S Lv2
+108 	Pellet S Lv3
+109 	Crag S Lv1
+110 	Crag S Lv2
+111 	Crag S Lv3
+112 	Clust S Lv1
+113 	Clust S Lv2
+114 	Clust S Lv3
+115 	Flaming S Lv1
+116 	Water S Lv1
+117 	Thunder S Lv1
+118 	Freeze S Lv1
+119 	Dragon S Lv1
+120 	Poison S Lv1
+121 	Poison S Lv2
+122 	Para S Lv1
+123 	Para S Lv2
+124 	Sleep S Lv1
+125 	Sleep S Lv2
+126 	Exhaust S Lv1
+127 	Exhaust S Lv2
+128 	Recover S Lv1
+129 	Recover S Lv2
+130 	Paint S
+131 	Tranq S
+132 	Normal S Lv1
+133 	Normal S Lv2
+134 	Normal S Lv3
+135 	Pierce S Lv1
+136 	Pierce S Lv2
+137 	Pierce S Lv3
+138 	Pellet S Lv1
+139 	Pellet S Lv2
+140 	Pellet S Lv3
+141 	Crag S Lv1
+142 	Crag S Lv2
+143 	Crag S Lv3
+144 	Clust S Lv1
+145 	Clust S Lv2
+146 	Clust S Lv3
+147 	Flaming S Lv1
+148 	Water S Lv1
+149 	Thunder S Lv1
+150 	Freeze S Lv1
+151 	Dragon S Lv1
+152 	Poison S Lv1
+153 	Poison S Lv2
+154 	Para S Lv1
+155 	Para S Lv2
+156 	Sleep S Lv1
+157 	Sleep S Lv2
+158 	Exhaust S Lv1
+159 	Exhaust S Lv2
+160 	Recover S Lv1
+161 	Recover S Lv2
+162 	Paint S
+163 	Tranq S
+164 	Stone S
+165 	Wyvern S
+166 	Slicing S Lv1
+167 	Slicing S Lv2
+168 	Blast S Lv1
+169 	Blast S Lv2
+170 	Demon S
+171 	Demon Aff S
+172 	Armor S
+173 	Super Armor S
+174 	Force S Lv1
+175 	Force S Lv2
+176 	Heavy S Lv1
+177 	Heavy S Lv2
+178 	Sting S
+179 	Flaming S Lv2
+180 	Water S Lv2
+181 	Thunder S Lv2
+182 	Freeze S Lv2
+183 	Dragon S Lv2
+184 	P.Flaming S Lv1
+185 	P.Flaming S Lv2
+186 	P.Water S Lv1
+187 	P.Water S Lv2
+188 	P.Thunder S Lv1
+189 	P.Thunder S Lv2
+190 	P.Freeze S Lv1
+191 	P.Freeze S Lv2
+192 	Cannon S Lv1
+193 	Cannon S Lv2
+194 	Long S Lv1
+195 	Long S Lv2
+196 	Triblast S
+197 	Shrapnel S
+198 	Dazzling S
+199 	Poison Smoke S
+200 	Flash S
+201 	Dung S
+202 	Remedy S
+203 	Group Recover S
+204 	Demon Armor S
+205 	Rapid S
+206 	(None)
+207 	Empty Phial
+208 	Power Coating Lv1
+209 	Power Coating Lv2
+210 	Elem Coating Lv1
+211 	Elem Coating Lv2
+212 	C.Range Coating
+213 	Poison Coating
+214 	Para Coating
+215 	Sleep Coating
+216 	Exhaust Coating
+217 	Blast Coating
+218 	Paint Coating
+219 	Larval Extract
+220 	Paralarval Extract
+221 	Power Jelly
+222 	Heavy Jelly
+223 	Speed Jelly
+224 	Fire Ambrosia
+225 	Water Ambrosia
+226 	Thunder Ambrosia
+227 	Ice Ambrosia
+228 	Dragon Ambrosia
+229 	Power Jelly+
+230 	Heavy Jelly+
+231 	Speed Jelly+
+232 	Power Jelly++
+233 	Heavy Jelly++
+234 	Speed Jelly++
+235 	Fire Ambrosia+
+236 	Water Ambrosia+
+237 	Thunder Ambrosia+
+238 	Ice Ambrosia+
+239 	Dragon Ambrosia+
+240 	Douse Ambrosia
+241 	Drought Ambrosia
+242 	Resistor Ambrosia
+243 	Melt Ambrosia
+244 	De-wyrm Ambrosia
+245 	Reverse Ambrosia
+246 	Alchemy Barrel
+247 	Alchemy Food
+248 	Alchemy Immunizer
+249 	Alchemy Earplugs
+250 	Alchemy Slick
+251 	Alchemy Cheer
+252 	Alchemy Whetstone
+253 	Alchemy Bullet
+254 	Alchemy Coating
+255 	Alchemy Sonic Bomb
+256 	Alchemy Booster
+257 	Alchemy Fireball
+258 	Alchemy Remedy
+259 	Worm
+260 	Mega Fishing Fly
+261 	Frog
+262 	Sushifish Bait
+263 	Burst Bait
+264 	Goldenfish Bait
+265 	Field Horn
+266 	Health Flute
+267 	Antidote Flute
+268 	Demon Flute
+269 	Armor Flute
+270 	Garbage
+271 	Honey
+272 	Herb
+273 	Antidote Herb
+274 	Fire Herb
+275 	Ivy
+276 	Sleep Herb
+277 	Sap Plant
+278 	Felvine
+279 	Gloamgrass Root
+280 	Hot Pepper
+281 	Snow Herb
+282 	Spicy Mushroom
+283 	Frozen Berry
+284 	King Cactus
+285 	Dosbiscus
+286 	Heftcorn
+287 	Stargazer Flower
+288 	Prismatic Dandelion
+289 	Immaculate Ore
+290 	Dragonvine
+291 	Tough Dragonvine
+292 	Blue Mushroom
+293 	Nitroshroom
+294 	Parashroom
+295 	Toadstool
+296 	Mopeshroom
+297 	Exciteshroom
+298 	Dragon Toadstool
+299 	Chaos Mushroom
+300 	Bindshroom
+301 	Reststool
+302 	Paintberry
+303 	Might Seed
+304 	Adamant Seed
+305 	Nulberry
+306 	Dragonfell Berry
+307 	Scatternut
+308 	Needleberry
+309 	Latchberry
+310 	Bomberry
+311 	Bumblepumpkin
+312 	Giant Acorn
+313 	Spiky Acorn
+314 	Yukumo Wood
+315 	Yukumo Hardwood
+316 	Yukumo Stoutwood
+317 	Stone
+318 	Iron Ore
+319 	Earth Crystal
+320 	Machalite Ore
+321 	Disc Stone
+322 	Ice Crystal
+323 	Bealite Ore
+324 	Lightcrystal
+325 	Dragonite Ore
+326 	Firestone
+327 	Allfire Stone
+328 	Lava Nugget
+329 	Carbalite Ore
+330 	Eltalite Ore
+331 	Meldspar Ore
+332 	Novacrystal
+333 	Purecrystal
+334 	Fucium Ore
+335 	Firecell Stone
+336 	Rainbow Ore
+337 	Pristine Ore
+338 	Ultimas Crystal
+339 	Aquaglow Jewel
+340 	Sunspire Jewel
+341 	Bloodrun Jewel
+342 	Lazurite Jewel
+343 	Adamant Orb
+344 	Sovereign Orb
+345 	Armor Stone
+346 	Armor Sphere
+347 	Armor Sphere+
+348 	Adv Armor Sphere
+349 	Hard Armor Sphere
+350 	Heavy Armor Sphere
+351 	King Armor Sphere
+352 	True Armor Sphere
+353 	Mystery Charm
+354 	Shining Charm
+355 	Timeworn Charm
+356 	Enduring Charm
+357 	Rustshard
+358 	Ancient Shard
+359 	Rare Fish
+360 	Burnt Fish
+361 	Gourmet Fish
+362 	Whetfish
+363 	Sushifish
+364 	Sleepyfish
+365 	Pin Tuna
+366 	Speartuna
+367 	Popfish
+368 	Scatterfish
+369 	Burst Arowana
+370 	Bomb Arowana
+371 	Glutton Tuna
+372 	Gastronome Tuna
+373 	Ancient Fish
+374 	Small Goldenfish
+375 	Wanchovy
+376 	Blue Cutthroat
+377 	Humspun Conch
+378 	Armored Bream
+379 	Sharqskin
+380 	Springnight Carp
+381 	Tailed Frog
+382 	Guardfish
+383 	Insect Husk
+384 	Godbug
+385 	Bitterbug
+386 	Flashbug
+387 	Thunderbug
+388 	Stinkhopper
+389 	Snakebee Larva
+390 	Stygian Worm
+391 	Carpenterbug
+392 	Shiny Beetle
+393 	Hercudrome
+394 	Fulgurbug
+395 	King Scarab
+396 	Rare Scarab
+397 	Blossom Cricket
+398 	Great Hornfly
+399 	Butterfly Beetle
+400 	Great Ladybug
+401 	Emperor Hopper
+402 	Flutterfly
+403 	Toxic Kumori
+404 	Large Toxic Kumori
+405 	Lethal Kumori
+406 	Dracophage Bug
+407 	Monster Bone S
+408 	Monster Bone M
+409 	Monster Bone L
+410 	Mystery Bone
+411 	Unknown Skull
+412 	Huge Unknown Skull
+413 	Monster Bone+
+414 	Monster Keenbone
+415 	Monster Hardbone
+416 	Monster Toughbone
+417 	Monster Slogbone
+418 	Elder Dragon Bone
+419 	Lrg ElderDragon Bone
+420 	Avian Finebone
+421 	Avian Stoutbone
+422 	Large Herbivore Bone
+423 	Brute Bone
+424 	Jumbo Bone
+425 	Stoutbone
+426 	Massive Bone
+427 	Dragonbone Relic
+428 	Dragonbone Artifact
+429 	Irregular Bone
+430 	Irregular Stoutbone
+431 	Irregular Slogbone
+432 	Wyvern Fang
+433 	Wyvern Claw
+434 	Sharp Claw
+435 	Piercing Claw
+436 	Sharp Fang
+437 	Crushing Fang
+438 	Bird Wyvern Gem
+439 	Fey Wyvern Gem
+440 	Wyvern Gem
+441 	Lrg Wyvern Gem
+442 	Elder Dragon Blood
+443 	Pure Dragon Blood
+444 	Viscous Dragon Blood
+445 	Steel Egg
+446 	Silver Egg
+447 	Golden Egg
+448 	Platinum Egg
+449 	Slickaxe
+450 	Screamer Sac
+451 	Poison Sac
+452 	Toxin Sac
+453 	Deadly Poison Sac
+454 	Paralysis Sac
+455 	Omniplegia Sac
+456 	Ultraplegia Sac
+457 	Sleep Sac
+458 	Coma Sac
+459 	Torpor Sac
+460 	Flame Sac
+461 	Inferno Sac
+462 	Conflagrant Sac
+463 	Electro Sac
+464 	Thunder Sac
+465 	Lightning Sac
+466 	Freezer Sac
+467 	Cryo Sac
+468 	Aqua Sac
+469 	Torrent Sac
+470 	Flood Sac
+471 	Dash Extract
+472 	Pale Extract
+473 	Hyper Extract
+474 	Potent Hyper Extract
+475 	Hyper Fang
+476 	Hyper Fang+
+477 	Hyper Hardfang
+478 	Hyper Keenfang
+479 	Hyper Solidfang
+480 	Hyper Claw
+481 	Hyper Claw+
+482 	Hyper Heavyclaw
+483 	Hyper Keenclaw
+484 	Hyper Solidclaw
+485 	Hyper Monster Bone
+486 	Hyper MnstrToughbone
+487 	Hyper MnstrSlogbone
+488 	Hyper Horn+
+489 	Hyper Hardhorn
+490 	Hyper Flame Sac
+491 	Hyper Conflagrant Sac
+492 	Hyper Pyroscale
+493 	Hyper Flarescale
+494 	Hyper Aqua Sac
+495 	Hyper Flood Sac
+496 	Hyper Fluid
+497 	Hyper Viscous Fluid
+498 	Hyper Electro Sac
+499 	Hyper Lightning Sac
+500 	Hyper Charged Shell
+501 	Hyper Amped Shell
+502 	Hyper Shockfur
+503 	Hyper Fluxfur
+504 	Hyper Ice Block
+505 	Hyper Ice Chunk
+506 	Hyper Draco. Scale
+507 	Hyper Draco. Scale+
+508 	Hyper Toxin
+509 	Hyper Potent Toxin
+510 	Hyper Paratoxin
+511 	Hyper Potent Paratoxin
+512 	Hyper Sleep Sac
+513 	Hyper Coma Sac
+514 	Hyper Narcotoxin
+515 	Hyper Potent Narcotoxin
+516 	Hyper Catalyst
+517 	Hyper Catalyst+
+518 	Felyne Fur Ruby
+519 	Larinoth Hide
+520 	Larinoth Finehide
+521 	Gargwa Feather
+522 	Gargwa Finefeather
+523 	Moofah Horn
+524 	Moofah Fleeceball
+525 	Moofah Heavyhorn
+526 	Kelbi Horn
+527 	Warm Pelt
+528 	High-quality Pelt
+529 	Prized Pelt
+530 	Anteka Antler
+531 	Anteka Proud Antler
+532 	Rhenoplos Shell
+533 	Rhenoplos Carapace
+534 	Rhenoplos Scalp
+535 	Slagtoth Hide+
+536 	Supple Piel
+537 	Monster Fluid
+538 	Monster Broth
+539 	Monster Essence
+540 	Bnahabra Shell
+541 	Bnahabra Carapace
+542 	Bnahabra Wing
+543 	Bnahabra Razorwing
+544 	Altaroth Jaw
+545 	Altaroth Stomach
+546 	Quality Stomach
+547 	Premium Stomach
+548 	Vespoid Shell
+549 	Vespoid Carapace
+550 	Vespoid Wing
+551 	Vespoid Innerwing
+552 	Vespoid Razorwing
+553 	Hornetaur Shell
+554 	Hornetaur Carapace
+555 	Hornetaur Wing
+556 	Hornetaur Innerwing
+557 	Hornetaur Razorwing
+558 	Hornetaur Head
+559 	Konchu Shell
+560 	Konchu Carapace
+561 	Konchu Cortex
+562 	Shocking Extract
+563 	Shocking Jelly
+564 	Remobra Hide
+565 	Remobra Hide+
+566 	Remobra Finehide
+567 	Striped Skin
+568 	Striped Finehide
+569 	Remobra Head
+570 	Mighty Remobra Head
+571 	Bird Wyvern Fang
+572 	Maccao Scale
+573 	Maccao Scale+
+574 	Maccao Shard
+575 	Maccao Hide
+576 	Great Maccao Scale
+577 	Great Maccao Scale+
+578 	Great Maccao Shard
+579 	Great Maccao Hide
+580 	Great Maccao Hide+
+581 	Great Maccao Piel
+582 	Champion's Crest
+583 	Glorious Crest
+584 	Maccao Tailspike
+585 	Maccao Tailspear
+586 	Jaggi Scale
+587 	Jaggi Scale+
+588 	Jaggi Shard
+589 	Jaggi Hide
+590 	Jaggi Piel
+591 	Velociprey Scale
+592 	Velociprey Scale+
+593 	Velociprey Shard
+594 	Velociprey Hide
+595 	Velociprey Hide+
+596 	Velocidrome Hide
+597 	Velocidrome Hide+
+598 	Velocidrome Piel
+599 	Velocidrome Claw
+600 	Velocidrome Claw+
+601 	Velocidrome Talon
+602 	Velocidrome Head
+603 	Genprey Fang
+604 	Genprey Scale
+605 	Genprey Scale+
+606 	Genprey Shard
+607 	Genprey Hide
+608 	Genprey Hide+
+609 	Gendrome Hide
+610 	Gendrome Hide+
+611 	Gendrome Piel
+612 	Gendrome Fang
+613 	Gendrome Fang+
+614 	Gendrome Hardfang
+615 	Gendrome Head
+616 	Ioprey Fang
+617 	Ioprey Scale
+618 	Ioprey Scale+
+619 	Ioprey Shard
+620 	Ioprey Hide
+621 	Ioprey Hide+
+622 	Iodrome Hide
+623 	Iodrome Hide+
+624 	Iodrome Piel
+625 	Iodrome Violet Scale
+626 	Iodrome Violet Scale+
+627 	Iodrome Violet Shard
+628 	Iodrome Head
+629 	Giaprey Scale
+630 	Giaprey Scale+
+631 	Giaprey Shard
+632 	Giaprey Hide
+633 	Giaprey Hide+
+634 	Giadrome Hide+
+635 	Giadrome Piel
+636 	Giadrome Claw+
+637 	Giadrome Talon
+638 	Giadrome Head
+639 	Arzuros Pelt
+640 	Arzuros Pelt+
+641 	Arzuros Fur
+642 	Arzuros Shell
+643 	Arzuros Carapace
+644 	Arzuros Cortex
+645 	Arzuros Brace
+646 	Arzuros Brace+
+647 	Arzuros Allbrace
+648 	Redhelm Pelt
+649 	Redhelm Pelt+
+650 	Redhelm Fur
+651 	Redhelm Shell
+652 	Redhelm Carapace
+653 	Redhelm Cortex
+654 	Redhelm Ragehair
+655 	Redhelm Furyhair
+656 	Redhelm Zenith Furyhair
+657 	Lagombi Pelt
+658 	Lagombi Pelt+
+659 	Lagombi Fur
+660 	Lagombi Ear
+661 	Lagombi Ear+
+662 	Lagombi Plastron
+663 	Lagombi Plastron+
+664 	Lagombi Cuirass
+665 	Lagombi Iceclaw
+666 	Lagombi Frozenclaw
+667 	Lagombi Frigidclaw
+668 	Snowbaron Pelt
+669 	Snowbaron Pelt+
+670 	Snowbaron Fur
+671 	Snowbaron Plastron
+672 	Snowbaron Plastron+
+673 	Snowbaron Cuirass
+674 	Volvidon Shell
+675 	Volvidon Carapace
+676 	Volvidon Cortex
+677 	Volvidon Claw
+678 	Volvidon Claw+
+679 	Volvidon Talon
+680 	Volvi Rickrack
+681 	Large Volvi Rickrack
+682 	Kut-Ku Scale
+683 	Kut-Ku Scale+
+684 	Kut-Ku Shard
+685 	Kut-Ku Shell
+686 	Kut-Ku Carapace
+687 	Kut-Ku Cortex
+688 	Kut-Ku Ear
+689 	Kut-Ku Auricle
+690 	Kut-Ku Luckear
+691 	Giant Beak
+692 	Splendid Beak
+693 	Kut-Ku Webbing
+694 	Kut-Ku Weave
+695 	Hyper Kut-Ku Scale
+696 	Hyper Kut-Ku Shard
+697 	Rubbery Hide
+698 	Rubbery Hide+
+699 	Rubbery Finehide
+700 	Gypceros Webbing
+701 	Gypceros Weave
+702 	Gypceros Wing
+703 	Gypceros Head
+704 	Gypceros Hardhead
+705 	Hyper Gypceros Hide
+706 	Hyper Gypceros Piel
+707 	Azurefeather
+708 	Azurefeather+
+709 	Azure Plume
+710 	Malfestio Webbing
+711 	Malfestio Wing
+712 	Malfestio Grandwing
+713 	Malfestio Wingtalon
+714 	Malfestio Wingtalon+
+715 	Malfestio Hrd Wingtalon
+716 	Malfestio Ear
+717 	Malfestio Luckear
+718 	Malfestio Tailfeather
+719 	Malfestio Tailblade
+720 	Malfestio Goldfeather
+721 	Malfestio Goldfeather+
+722 	Hyper Azurefeather
+723 	Hyper Azurefeather+
+724 	Nightcloak Plume
+725 	Nightcloak Grandwing
+726 	Nightcloak Clearscale
+727 	Garuga Scale
+728 	Garuga Scale+
+729 	Garuga Shard
+730 	Garuga Shell
+731 	Garuga Carapace
+732 	Garuga Cortex
+733 	Garuga Ear
+734 	Garuga Auricle
+735 	Sharpened Beak
+736 	Rejuvenated Beak
+737 	Garuga Wing
+738 	Garuga Fellwing
+739 	Garuga Tail
+740 	Garuga Lash
+741 	Garuga Mane
+742 	Garuga Silverpelt
+743 	Hyper Garuga Scale
+744 	Hyper Garuga Shard
+745 	Deadeye Scale
+746 	Deadeye Scale+
+747 	Deadeye Shard
+748 	Deadeye Shell
+749 	Deadeye Carapace
+750 	Deadeye Cortex
+751 	Mosswine Hide
+752 	Mosswine Thick Hide
+753 	Bullfango Pelt
+754 	Bullfango Pelt+
+755 	Bullfango Thickfur
+756 	Bullfango Head
+757 	Bulldrome Hide
+758 	Bulldrome Hide+
+759 	Bulldrome Thickhide
+760 	Bulldrome Tusk
+761 	Bulldrome Tusk+
+762 	Bulldrome Hardtusk
+763 	Conga Pelt+
+764 	Conga Fur
+765 	Beastly Fang
+766 	Congalala Pelt+
+767 	Congalala Fur
+768 	Congalala Fang
+769 	Congalala Claw+
+770 	Vibrant Pelt
+771 	Vibrant Fur
+772 	Congalala Hardclaw
+773 	Hyper Congalala Pelt+
+774 	Blango Pelt
+775 	Blango Pelt+
+776 	Blango Fur
+777 	Blangonga Pelt
+778 	Blangonga Pelt+
+779 	Blangonga Fur
+780 	Blangonga Fang
+781 	Blangonga Fang+
+782 	Blangonga Hardfang
+783 	Blangonga Whisker
+784 	Leather Beast Pelt
+785 	Blangonga Tail
+786 	Blangonga Lash
+787 	Hyper Blangonga Pelt
+788 	Hyper Blangonga Pelt+
+789 	Kecha Pelt+
+790 	Kecha Fur
+791 	Kecha Grandbone
+792 	Kecha Leadbone
+793 	Kecha Talon
+794 	Kecha Ripper
+795 	Kecha Ear+
+796 	Kecha Auricle
+797 	Kecha Tail
+798 	Kecha Lash
+799 	Hyper Kecha Pelt
+800 	Hyper Kecha Pelt+
+801 	Small Lobstershell
+802 	Large Lobstershell
+803 	Giant Lobstershell
+804 	Cephalos Scale
+805 	Cephalos Scale+
+806 	Cephalos Shard
+807 	Cephalos Fin
+808 	Cephalos Fin+
+809 	Cephalos Grandfin
+810 	Cephalos Fang
+811 	Cephalos Fang+
+812 	Cephalos Hardfang
+813 	Plesioth Scale+
+814 	Plesioth Shard
+815 	Plesioth Fin+
+816 	Plesioth Grandfin
+817 	Plesioth Fang+
+818 	Plesioth Hardfang
+819 	Plesioth Webbing
+820 	Hrd Ples Webbing
+821 	Plesioth Head
+822 	Uber Plesio Head
+823 	Hyper Plesioth Scale
+824 	Hyper Plesioth Shard
+825 	Lavasioth Scale+
+826 	Lavasioth Shard
+827 	Lavasioth Carapace
+828 	Lavasioth Cortex
+829 	Lavasioth Fang+
+830 	Lavasioth Hardfang
+831 	Lavasioth Fin+
+832 	Lavasioth Grandfin
+833 	Hyper Lavasioth Scale
+834 	Hyper Lavasioth Shard
+835 	Hydro Hide
+836 	Hydro Hide+
+837 	Hydro Piel
+838 	Immature Sponge
+839 	Spongy Hide
+840 	Spongy Hide+
+841 	Spongy Piel
+842 	R.Ludroth Scale
+843 	R.Ludroth Scale+
+844 	R.Ludroth Shard
+845 	R.Ludroth Claw
+846 	R.Ludroth Claw+
+847 	R.Ludroth Talon
+848 	R.Ludroth Crest
+849 	R.Ludroth Crest+
+850 	Chic Crest
+851 	R.Ludroth Tail
+852 	R.Ludroth Lash
+853 	Hyper R.Ludroth Scale
+854 	Hyper R.Ludroth Shard
+855 	Nibelsnarf Shell
+856 	Nibel Carapace
+857 	Nibelsnarf Cortex
+858 	Nibelsnarf Hide
+859 	Nibelsnarf Hide+
+860 	Nibelsnarf Piel
+861 	Nibelsnarf Claw
+862 	Nibelsnarf Claw+
+863 	Nibelsnarf Talon
+864 	Nibelsnarf Scalp
+865 	Nibelsnarf Crown
+866 	Vivid Fluid
+867 	Brilliant Fluid
+868 	Dazzling Fluid
+869 	Hyper Nibelsnarf Shell
+870 	Hyper Nibelsnarf Cortex
+871 	Lagiacrus Hide
+872 	Lagiacrus Hide+
+873 	Lagiacrus Piel
+874 	Lagiacrus Scale
+875 	Lagiacrus Scale+
+876 	Lagiacrus Shard
+877 	Shell Shocker
+878 	Shell Shocker+
+879 	Deathly Shocker
+880 	Lagiacrus Horn
+881 	Lagiacrus Horn+
+882 	Lagia Hardhorn
+883 	Lagiacrus Tail
+884 	Lagiacrus Flail
+885 	Lagiacrus Claw
+886 	Lagiacrus Claw+
+887 	Lagiacrus Talon
+888 	Lagiacrus Plate
+889 	Lagiacrus Sapphire
+890 	Lagiacrus Mantle
+891 	Hyper Lagiacrus Hide
+892 	Hyper Lagiacrus Piel
+893 	Uroktor Scale
+894 	Uroktor Scale+
+895 	Uroktor Shard
+896 	Agnaktor Scale
+897 	Agnaktor Carapace
+898 	Agnaktor Cortex
+899 	Agnaktor Hide+
+900 	Agnaktor Piel
+901 	Agnaktor Claw+
+902 	Agnaktor Talon
+903 	Agnaktor Fin+
+904 	Agnaktor Grandfin
+905 	Agnaktor Beak
+906 	Agnaktor Tail
+907 	Scalding Pleura+
+908 	Scorching Pleura
+909 	Hyper Agnaktor Shell
+910 	Hyper Agnaktor Cortex
+911 	Tetsucabra Scale
+912 	Tetsucabra Scale+
+913 	Tetsucabra Shard
+914 	Tetsucabra Shell
+915 	Tetsucabra Carapace
+916 	Tetsucabra Cortex
+917 	Tetsucabra Claw
+918 	Tetsucabra Claw+
+919 	Tetsucabra Hardclaw
+920 	Tetsucabra Tusks
+921 	Tetsucabra Tusks+
+922 	Tetsucabra Gnawrl
+923 	Dignified Skull
+924 	Vicious Visage
+925 	Paddock Oil
+926 	Paddock Oil+
+927 	Paddock Cream
+928 	Hyper Tetsu. Scale
+929 	Hyper Tetsu. Shard
+930 	Drilltusk Scale
+931 	Drilltusk Scale+
+932 	Drilltusk Shard
+933 	Drilltusk Shell
+934 	Drilltusk Carapace
+935 	Drilltusk Cortex
+936 	Drilltusk Tusk
+937 	Drilltusk Tusk+
+938 	Drilltusk Gnawrl
+939 	Sharqskin Scale
+940 	Meaty Hide+
+941 	Zamtrios Hide+
+942 	Zamtrios Piel
+943 	Zamtrios Scale+
+944 	Zamtrios Shard
+945 	Zamtrios Fin+
+946 	Zamtrios Grandfin
+947 	Zamtrios Sawtooth
+948 	Zamtrios Sawtooth+
+949 	Zamtrios Tailblade
+950 	Zamtrios Tailbrand
+951 	Hyper Zamtrios Hide
+952 	Hyper Zamtrios Piel
+953 	Najarala Shell
+954 	Najarala Ampsounder
+955 	Najarala Carapace
+956 	Najarala Cortex
+957 	Najarala Hide
+958 	Najarala Hide+
+959 	Najarala Piel
+960 	Najarala Marrow
+961 	Najarala Medulla
+962 	Najarala Sounder
+963 	Najarala Sounder+
+964 	Najarala Fang
+965 	Chilling Beak
+966 	Heart-stopping Beak
+967 	Hyper Najarala Shell
+968 	Hyper Najarala Cortex
+969 	Black Pearl
+970 	Fine Black Pearl
+971 	Wyvern Scalp
+972 	Heavy Wyvern Scalp
+973 	Decayed Crimson Horn
+974 	Timeworn Crimson Horn
+975 	Sm. Hermitaur Shell
+976 	Tiny Hermitaur Shell
+977 	Hermitaur Shell
+978 	Hermitaur Carapace
+979 	Hermitaur Cortex
+980 	Hermitaur Claw
+981 	Hermitaur Claw+
+982 	Hermitaur Hardclaw
+983 	Hyper Hermitaur Scale
+984 	Hyper Hermitaur Cortex
+985 	Stonefist Shell
+986 	Stonefist Carapace
+987 	Stonefist Cortex
+988 	Stonefist Claw
+989 	Stonefist Claw+
+990 	Stonefist Talon
+991 	Small Ceanataur Shell
+992 	Ceanataur Shell
+993 	Ceanataur Carapace
+994 	Ceanataur Cortex
+995 	Ceanataur Leg
+996 	Ceanataur Leg+
+997 	Heavy Ceanataur Leg
+998 	Ceanataur Claw
+999 	Ceanataur Claw+
+1000 	Ceanataur Hardclaw
+1001 	Hyper Ceanataur Shell
+1002 	Hyper Ceanataur Crtx
+1003 	Heavy Rustrazor Scalp
+1004 	Rustrazor Cortex
+1005 	Rustrazor Hardclaw
+1006 	Nerscylla Carapace
+1007 	Nerscylla Cortex
+1008 	Nerscylla Shear
+1009 	Nerscylla Scishorn
+1010 	Nerscylla Sharpclaw
+1011 	Nerscylla Hardclaw
+1012 	Nerscylla Spike+
+1013 	Nerscylla Surspike
+1014 	Hyper Nerscylla Cortex
+1015 	Seltas Carapace
+1016 	Seltas Cortex
+1017 	Seltas Innerwing
+1018 	Seltas Razorwing
+1019 	Seltas Horn+
+1020 	Seltas Hardhorn
+1021 	S.Queen Carapace
+1022 	S.Queen Cortex
+1023 	S.Queen Hardpectus
+1024 	S.Queen Pectus+
+1025 	S.Queen Sharpclaw
+1026 	S.Queen Hardclaw
+1027 	S.Queen Jaw
+1028 	S.Queen Maw
+1029 	S.Queen Crescent
+1030 	S.Queen Moonlash
+1031 	S.Queen Extract
+1032 	D.S.QueenConcentrate
+1033 	Hyper S.Queen Shell
+1034 	Hyper S.Queen Cortex
+1035 	Barroth Carapace
+1036 	Barroth Cortex
+1037 	Barroth Ridge+
+1038 	Barroth Chine
+1039 	Barroth Claw+
+1040 	Barroth Talon
+1041 	Barroth Scalp
+1042 	Barroth Crown
+1043 	Barroth Tail
+1044 	Barroth Lash
+1045 	Fertile Mud
+1046 	Hyper Barroth Cortex
+1047 	Uragaan Scale
+1048 	Uragaan Scale+
+1049 	Uragaan Shard
+1050 	Uragaan Shell
+1051 	Uragaan Carapace
+1052 	Uragaan Cortex
+1053 	Uragaan Jaw
+1054 	Uragaan Jaw+
+1055 	Uragaan Scute
+1056 	Uragaan Scute+
+1057 	Uragaan Marrow
+1058 	Uragaan Ruby
+1059 	Uragaan Pallium
+1060 	Hyper Uragaan Scale
+1061 	Hyper Uragaan Shard
+1062 	Crystalbeard Scale
+1063 	Crystalbeard Scale+
+1064 	Crystalbeard Shard
+1065 	Crystalbeard Jaw
+1066 	Crystalbeard Maw
+1067 	Crystalbeard Mandible
+1068 	Treasure Nugget
+1069 	Large Treasure Nugget
+1070 	Brach Shell
+1071 	Brach Carapace
+1072 	Brach Cortex
+1073 	Brach Ebonshell
+1074 	Brach Ebonshell+
+1075 	Fine Brach Ebonshell
+1076 	Brach Scalp
+1077 	Brach Scalp+
+1078 	Brach Crown
+1079 	Brach Warhead
+1080 	Mystery Slime
+1081 	Glowing Slime
+1082 	Flashpoint Slime
+1083 	Brach Hammer
+1084 	Brach Pounder
+1085 	Brach Pounder+
+1086 	Brach Obliterator
+1087 	Brach Tail
+1088 	Brach Lash
+1089 	Brach Marrow
+1090 	Brach Gem
+1091 	Brach Pallium
+1092 	Immortal Reactor
+1093 	Hyper Brach Shell
+1094 	Hyper Brach Cortex
+1095 	Duram Carapace
+1096 	Duramboros Cortex
+1097 	Hard Mossplate
+1098 	Heavy Mossplate
+1099 	Duramboros Hump
+1100 	Marbled Hump
+1101 	Duram Tailcase+
+1102 	Duram Hardtail
+1103 	Duramboros Horn+
+1104 	Duramboros Hardhorn
+1105 	Duram Sacrum
+1106 	Durambolite
+1107 	Hyper Duram Shell
+1108 	Hyper Duram Cortex
+1109 	Flabby Hide
+1110 	Pearl Hide
+1111 	Pearl Glosshide
+1112 	Pale Bone
+1113 	Pale Steak
+1114 	Khezu Special Cut
+1115 	Hyper Khezu Hide
+1116 	Hyper Khezu Glosshide
+1117 	Nargacuga Scale
+1118 	Nargacuga Scale+
+1119 	Nargacuga Shard
+1120 	Nargacuga Blackfur
+1121 	Nargacuga Pelt+
+1122 	Nargacuga Blackfur+
+1123 	Nargacuga Tail
+1124 	Nargacuga Lash
+1125 	Narga Tailspike
+1126 	Narga Tailspear
+1127 	Nargacuga Cutwing
+1128 	Narga Razor
+1129 	Nargacuga Cutwing+
+1130 	Nargacuga Fang
+1131 	Nargacuga Fang+
+1132 	Nargacuga Hardfang
+1133 	Nargacuga Marrow
+1134 	Narga Medulla
+1135 	Nargacuga Mantle
+1136 	Hyper Narga Scale
+1137 	Hyper Narga Shard
+1138 	Silverwind Scale
+1139 	Silverwind Scale+
+1140 	Silverwind Shard
+1141 	Silverwind Blackfur
+1142 	Silverwind Blackfur+
+1143 	Silverwind Blackpelage
+1144 	Barioth Carapace
+1145 	Barioth Cortex
+1146 	Barioth Pelt+
+1147 	Barioth Thickfur
+1148 	Barioth Claw+
+1149 	Barioth Talon
+1150 	Amber Fang+
+1151 	Amber Hardfang
+1152 	Barioth Spike
+1153 	Barioth Tail
+1154 	Barioth Lash
+1155 	Hyper Barioth Piel
+1156 	Basarios Carapace
+1157 	Basarios Wing
+1158 	Basarios Tears
+1159 	Basarios Cortex
+1160 	Basarios Fellwing
+1161 	Basarios Pallium
+1162 	Hyper Basarios Cortex
+1163 	Gravios Carapace
+1164 	Gravios Cortex
+1165 	Gravios Scalp
+1166 	Gravios Crown
+1167 	Gravios Wing
+1168 	Gravios Fellwing
+1169 	Gravios Medulla
+1170 	Gravios Pallium
+1171 	Hyper Gravios Cortex
+1172 	Rathian Scale
+1173 	Rathian Scale+
+1174 	Rathian Shard
+1175 	Rathian Shell
+1176 	Rathian Carapace
+1177 	Rathian Cortex
+1178 	Rathian Webbing
+1179 	Rathian Weave
+1180 	Rathian Spike
+1181 	Rathian Spike+
+1182 	Rathian Surspike
+1183 	Rathian Plate
+1184 	Rathian Ruby
+1185 	Rathian Mantle
+1186 	Hyper Rathian Scale
+1187 	Hyper Rathian Shard
+1188 	Dreadqueen Scale
+1189 	Dreadqueen Scale+
+1190 	Dreadqueen Shard
+1191 	Dreadqueen Shell
+1192 	Dreadqueen Carapace
+1193 	Dreadqueen Cortex
+1194 	G.Rathian Scale+
+1195 	G.Rathian Shard
+1196 	G.Rathian Carapace
+1197 	G.Rathian Cortex
+1198 	G.Rathian Spike+
+1199 	G.Rath Surspike
+1200 	Hyper G.Rathian Scale
+1201 	Hyper G.Rathian Shard
+1202 	Rathalos Scale
+1203 	Rathalos Scale+
+1204 	Rathalos Shard
+1205 	Rathalos Shell
+1206 	Rathalos Carapace
+1207 	Rathalos Cortex
+1208 	Rathalos Webbing
+1209 	Rathalos Wing
+1210 	Rathalos Fellwing
+1211 	Rathalos Tail
+1212 	Rathalos Lash
+1213 	Rathalos Plate
+1214 	Rathalos Ruby
+1215 	Rathalos Mantle
+1216 	Hyper Rathalos Scale
+1217 	Hyper Rathalos Shard
+1218 	Dreadking Scale
+1219 	Dreadking Scale+
+1220 	Dreadking Shard
+1221 	Dreadking Shell
+1222 	Dreadking Carapace
+1223 	Dreadking Cortex
+1224 	S.Rathalos Scale+
+1225 	S.Rathalos Shard
+1226 	S.Rathalos Carapace
+1227 	S.Rath Cortex
+1228 	S.Rathalos Tail
+1229 	S.Rath Lash
+1230 	Hyper S.Rath. Scale
+1231 	Hyper S.Rath. Shard
+1232 	Rath Wingtalon
+1233 	Rath Wingtalon+
+1234 	Rath Marrow
+1235 	Rath Medulla
+1236 	Rath Gleam
+1237 	Firegleam Dollop
+1238 	Zinogre Shell
+1239 	Zinogre Carapace
+1240 	Zinogre Cortex
+1241 	Zinogre Shockfur
+1242 	Zinogre Electrofur
+1243 	Zinogre Electrofur+
+1244 	Zinogre Horn
+1245 	Zinogre Horn+
+1246 	Zinogre Hardhorn
+1247 	Zinogre Claw
+1248 	Zinogre Claw+
+1249 	Zinogre Hardclaw
+1250 	Zinogre Tail
+1251 	Zinogre Lash
+1252 	Zinogre Shocker
+1253 	Zinogre Shocker+
+1254 	Zinogre D-Shocker
+1255 	Zinogre Plate
+1256 	Zinogre Jasper
+1257 	Zinogre Skymerald
+1258 	Hyper Zinogre Shell
+1259 	Hyper Zinogre Cortex
+1260 	Thunderlord Shell
+1261 	Thunderlord Carapace
+1262 	Thunderlord Cortex
+1263 	Thunderlord Shockfur
+1264 	Thunderlord Electrofur
+1265 	Thunderlord Boltfur
+1266 	Thunderlord Horn
+1267 	Thunderlord Horn+
+1268 	Thunderlord Gleamhorn
+1269 	Astalos Scale
+1270 	Astalos Scale+
+1271 	Astalos Shard
+1272 	Astalos Shell
+1273 	Astalos Shell+
+1274 	Heavy Astalos Shell
+1275 	Astalos Membrane
+1276 	Astalos Membrane+
+1277 	Astalos Wingmembrane
+1278 	Astalos Wingtalon
+1279 	Astalos Wingtalon+
+1280 	Astalos Wingripper
+1281 	Astalos Crest
+1282 	Astalos Crest+
+1283 	Heavy Astalos Crest+
+1284 	Astalos Scissortail
+1285 	Astalos Scissortailblade
+1286 	Electroscale
+1287 	Electroscale+
+1288 	Boltscale
+1289 	Astalos Plate
+1290 	Astalos Electrogem
+1291 	Astalos Mantle
+1292 	Hyper Astalos Scale
+1293 	Hyper Astalos Shard
+1294 	Boltreaver Shard
+1295 	Heavy Boltreaver Shell
+1296 	Boltreaver Electric Barb
+1297 	Gammoth Pelt
+1298 	Gammoth Pelt+
+1299 	Gammoth Fur
+1300 	Gammoth Shell
+1301 	Gammoth Carapace
+1302 	Gammoth Cortex
+1303 	Gammoth Fang
+1304 	Gammoth Fang+
+1305 	Gammoth Hardfang
+1306 	Trunkspine
+1307 	Trunkspine+
+1308 	Gammoth Redfur
+1309 	Snowclod
+1310 	Large Snowclod
+1311 	Giant Snowclod
+1312 	Gammoth Scalp
+1313 	Gammoth Ice Orb
+1314 	Gammoth Pallium
+1315 	Hyper Gammoth Fur
+1316 	Hyper Gammoth Fur X
+1317 	Elderfrost Pelt
+1318 	Elderfrost Cortex
+1319 	Elderfrost Trunkspine
+1320 	Mizutsune Scale
+1321 	Mizutsune Scale+
+1322 	Mizutsune Shard
+1323 	Mizutsune Purplefur
+1324 	Mizutsune Purplefur+
+1325 	Mizutsune Purplefell
+1326 	Mizutsune Claw
+1327 	Mizutsune Claw+
+1328 	Mizutsune Hardclaw
+1329 	Mizutsune Fin
+1330 	Mizutsune Fin+
+1331 	Mizutsune Silkfin
+1332 	Mizutsune Tail
+1333 	Purple Mizutsune Tail
+1334 	Bubblefoam
+1335 	Bubblefoam+
+1336 	Distilled Bubblefoam
+1337 	Mizutsune Plate
+1338 	Mizutsune Water Orb
+1339 	Mizutsune Pallium
+1340 	Hyper Mizutsune Scale
+1341 	Hyper Mizutsune Scale X
+1342 	Soulseer Shard
+1343 	Soulseer Purplehide
+1344 	Soulseer Tail
+1345 	Glavenus Scale
+1346 	Glavenus Scale+
+1347 	Glavenus Shard
+1348 	Glavenus Shell
+1349 	Glavenus Carapace
+1350 	Glavenus Cortex
+1351 	Glavenus Fang
+1352 	Glavenus Fang+
+1353 	Glavenus Hardfang
+1354 	Glavenus Pyroshell
+1355 	Glavenus Pyroshell+
+1356 	Glavenus Hellshell
+1357 	Glavenus Tail
+1358 	Glavenus Tailedge
+1359 	Glavenus Tailpiece
+1360 	Flaming Bursa
+1361 	Solar Bursa
+1362 	Molten Bursa
+1363 	Glavenus Plate
+1364 	Glavenus Fire Orb
+1365 	Glavenus Pallium
+1366 	Hyper Glavenus Scale
+1367 	Hyper Glavenus Scale X
+1368 	Hellblade Scale
+1369 	Hellblade Scale+
+1370 	Hellblade Shard
+1371 	Hellblade Shell
+1372 	Hellblade Carapace
+1373 	Hellblade Cortex
+1374 	Hellblade Powder
+1375 	Tigrex Scale
+1376 	Tigrex Scale+
+1377 	Tigrex Shard
+1378 	Tigrex Shell
+1379 	Tigrex Carapace
+1380 	Tigrex Cortex
+1381 	Tigrex Tail
+1382 	Tigrex Lash
+1383 	Tigrex Claw
+1384 	Tigrex Claw+
+1385 	Tigrex Hardclaw
+1386 	Tigrex Fang
+1387 	Tigrex Fang+
+1388 	Tigrex Hardfang
+1389 	Tigrex Scalp
+1390 	Tigrex Maw
+1391 	Tigrex Mantle
+1392 	Hyper Tigrex Scale
+1393 	Hyper Tigrex Scale X
+1394 	Grimclaw Scale
+1395 	Grimclaw Scale+
+1396 	Grimclaw Shard
+1397 	Grimclaw Shell
+1398 	Grimclaw Carapace
+1399 	Grimclaw Cortex
+1400 	Grimclaw Talon
+1401 	Grimclaw Talon+
+1402 	Grimclaw Hardclaw
+1403 	Seregios Bladescale
+1404 	Seregios Slavescale
+1405 	Seregios Slavescale+
+1406 	Airblade Shard
+1407 	Seregios Airblade
+1408 	Seregios Airblade+
+1409 	Seregios Talon
+1410 	Seregios Carver
+1411 	Seregios Carver+
+1412 	Seregios Impaler
+1413 	Seregios Impaler+
+1414 	Seregios Sunderer
+1415 	Seregios Breacher
+1416 	Seregios Breacher+
+1417 	Seregios Wingtalon
+1418 	Seregios Scraper
+1419 	Seregios Scraper+
+1420 	Seregios Dissenter
+1421 	Seregios Lens
+1422 	Hyper Seregios Scale
+1423 	Hyper Seregios Scale X
+1424 	Diablos Carapace
+1425 	Diablos Cortex
+1426 	Diablos Ridge+
+1427 	Diablos Chine
+1428 	Twisted Horn
+1429 	Majestic Horn
+1430 	Diablos Hardhorn
+1431 	Diablos Fang
+1432 	Diablos Tailcase
+1433 	Diablos Tailcase+
+1434 	Blos Medulla
+1435 	Hyper Diablos Cortex
+1436 	Bloodbath Cortex
+1437 	Bloodbath Chine
+1438 	Bloodbath Grimhorn
+1439 	Gore Magala Scale
+1440 	Gore Magala Scale+
+1441 	Gore Magala Shard
+1442 	Gore Magala Shell
+1443 	Gore Magala Carapace
+1444 	Gore Magala Cortex
+1445 	Gore Magala Wing
+1446 	Gore Magala Wing+
+1447 	Gore Magala Eclipse
+1448 	Antinomic Wing
+1449 	Gore Magala Ripclaw
+1450 	Gore Magala Ripclaw+
+1451 	Gore Magala Shredder
+1452 	Gore Magala Tail
+1453 	Gore Magala Lash
+1454 	Gore Magala Plate
+1455 	Contrary Scale
+1456 	Gore Magala Nyctgem
+1457 	Gore Magala Mantle
+1458 	Gore Magala Feeler
+1459 	Gore Magala Feeler+
+1460 	Gore Magala Sensor
+1461 	Diametrical Horn
+1462 	Defiled Scale
+1463 	Chaos Scale
+1464 	Hyper G.Magala Scale
+1465 	Hyper G.Magala Scale X
+1466 	S.Magala Scale
+1467 	S.Magala Scale+
+1468 	S.Magala Shard
+1469 	S.Magala Shell
+1470 	S.Magala Carapace
+1471 	S.Magala Cortex
+1472 	S.Magala Prismwing
+1473 	S.Magala Prismwing+
+1474 	S.Magala Lightwing
+1475 	S.Magala Caress
+1476 	S.Magala Caress+
+1477 	S.Magala Purifier
+1478 	S.Magala Tail
+1479 	S.Magala Lash
+1480 	S.Magala Plate
+1481 	S.Magala Phosgem
+1482 	S.Magala Mantle
+1483 	S.Magala Horn
+1484 	S.Magala Horn+
+1485 	S.Magala Hardhorn
+1486 	Pure Scale
+1487 	Rajang Horn+
+1488 	Rajang Hardhorn
+1489 	Rajang Fang+
+1490 	Rajang Hardfang
+1491 	Rajang Blackfur
+1492 	Rajang Wildpelt
+1493 	Rajang Claw+
+1494 	Rajang Hardclaw
+1495 	Rajang Tail
+1496 	Gold Rajang Pelt
+1497 	Gold Rajang Pelt+
+1498 	Rajang Ragehair
+1499 	Rajang Apoplexy
+1500 	Rajang Nerve
+1501 	Rajang Heart
+1502 	Ghoulish Gold Horn
+1503 	Ghoulish Gold Gorer
+1504 	Hyper Rajang Fur
+1505 	Hyper Rajang Fur X
+1506 	Deviljho Scale
+1507 	Deviljho Shard
+1508 	Deviljho Crook
+1509 	Deviljho Hide
+1510 	Deviljho Blackpiel
+1511 	Bloodied Ebonhide
+1512 	Deviljho Tallfang
+1513 	Deviljho Hardfang
+1514 	Vile Fang
+1515 	Deviljho Talon
+1516 	Deviljho Ripper
+1517 	Deviljho Scalp
+1518 	Deviljho Tail
+1519 	Deviljho Flail
+1520 	Deviljho Saliva
+1521 	Black Blood
+1522 	Spattered Hide
+1523 	Deviljho Gem
+1524 	Hyper Deviljho Scale
+1525 	Hyper Deviljho Scale X
+1526 	Kirin Thunderhorn
+1527 	Kirin Hide
+1528 	Kirin Hide+
+1529 	Kirin Finehide
+1530 	Kirin Mane
+1531 	Platinum Mane
+1532 	Kirin Thundertail
+1533 	Kirin Thunderlash
+1534 	Kirin Azure Horn
+1535 	Kirin Azure Peak
+1536 	Daora Shell
+1537 	Daora Carapace
+1538 	Daora Cortex
+1539 	Daora Scale
+1540 	Daora Dragon Scale+
+1541 	Daora Shard
+1542 	Daora Webbing
+1543 	Daora Fellwing
+1544 	Daora Horn
+1545 	Daora Hardhorn
+1546 	Daora Horn+
+1547 	Daora Tail
+1548 	Daora Lash
+1549 	Daora Claw
+1550 	Daora Claw+
+1551 	Daora Hardclaw
+1552 	Daora Gem
+1553 	Lrg Elder Dragon Gem
+1554 	Chameleos Hide
+1555 	Chameleos Hide+
+1556 	Chameleos Finehide
+1557 	Chameleos Horn
+1558 	Chameleos Spike
+1559 	Chameleos Hardhorn
+1560 	Chameleos Claw
+1561 	Chameleos Claw+
+1562 	Chameleos Hardclaw
+1563 	Chameleos Webbing
+1564 	Chameleos Fellwing
+1565 	Chameleos Tail
+1566 	Chameleos Lash
+1567 	Chameleos Gem
+1568 	Teostra Shell
+1569 	Teostra Carapace
+1570 	Teostra Cortex
+1571 	Teostra Mane
+1572 	Teostra Tail
+1573 	Teostra Lash
+1574 	Teostra Horn
+1575 	Teostra Horn+
+1576 	Teostra Hardhorn
+1577 	Fire Dragon Scale
+1578 	Fire Dragon Scale+
+1579 	Flame Shard
+1580 	Fire Dragon Claw
+1581 	Teostra Claw+
+1582 	Fire Dragon Hardclaw
+1583 	Teostra Webbing
+1584 	Teostra Powder
+1585 	Teostra Gem
+1586 	Wyvern Crystal
+1587 	Great Wyvern Crystal
+1588 	Akantor Scale+
+1589 	Akantor Shard
+1590 	Akantor Carapace
+1591 	Akantor Cortex
+1592 	Akantor Tail
+1593 	Akantor Flail
+1594 	Akantor Hardclaw
+1595 	Akantor Shredtalon
+1596 	Akantor Tallfang
+1597 	Akantor Greatfang
+1598 	Akantor Spike
+1599 	Akantor Thickspike
+1600 	Akantor Gem
+1601 	Conquest Sphere
+1602 	Ukanlos Carapace
+1603 	Ukanlos Cortex
+1604 	Ukanlos Underscale
+1605 	Ukanlos Underscale+
+1606 	Ukanlos Tail
+1607 	Ukanlos Flail
+1608 	Ukanlos Digger
+1609 	Ukanlos Digger+
+1610 	Ukanlos Shoveljaw
+1611 	Ukanlos Shoveljaw+
+1612 	Ukanlos Fin+
+1613 	Ukanlos Strongfin
+1614 	Ukanlos Gem
+1615 	Ukanlos Stone
+1616 	Alatreon Scute
+1617 	Alatreon Pallium
+1618 	Alatreon Plate
+1619 	Alatreon Mantle
+1620 	Alatreon Talon
+1621 	Alatreon Riptalon
+1622 	Alatreon Webbing
+1623 	Alatreo Direwing
+1624 	Alatreon Tail
+1625 	Alatreo Diretail
+1626 	Broken Skypiercer
+1627 	Skypiercer
+1628 	Skyswayer
+1629 	Azure Dragongem
+1630 	Azure Dragonsphire
+1631 	Amatsu Carapace
+1632 	Amatsu Cortex
+1633 	Amatsu Webbing
+1634 	Amatsu Membrane
+1635 	Amatsu Horn
+1636 	Amatsu Hardhorn
+1637 	Amatsu Claw+
+1638 	Amatsu Hardclaw
+1639 	Amatsu Tail
+1640 	Amatsu Stormtail
+1641 	Amatsu Pleura
+1642 	Amatsu Heavypleura
+1643 	Storm Vesicle
+1644 	Storm Vesicle Clump
+1645 	Heavenly Dragongem
+1646 	Heavenly Dragonsphire
+1647 	Dragon Healing Crystal
+1648 	Lao-Shan Shard
+1649 	Lao-Shan Cortex
+1650 	Lao-Shan Hardhorn
+1651 	Lao-Shan Megaclaw
+1652 	Lao-Shan Mantle
+1653 	Fatalis Shard
+1654 	Fatalis Cortex
+1655 	Fatalis Hardhorn
+1656 	Fatalis Evil Eye
+1657 	Fatalis Fellwing
+1658 	Crimson Fatalis Scale
+1659 	Crimson Fatalis Shell
+1660 	Crimson Fatalis Horn
+1661 	Crimson Fatalis Wing
+1662 	Fatalis Devileye+
+1663 	Old Fatalis Shard
+1664 	Old Fatalis Cortex
+1665 	Old Fatalis Hardhorn
+1666 	Old Fatalis Fellwing
+1667 	Old Fatalis Souleye
+1668 	Nakarkos Husk
+1669 	Nakarkos Husk+
+1670 	Heavy Nakarkos Husk
+1671 	Nakarkos Shell
+1672 	Nakarkos Shell+
+1673 	Nakarkos Hardshell
+1674 	Nakarkos Skull
+1675 	Nakarkos Hardskull
+1676 	Nakarkos Vertebra
+1677 	Nakarkos Hardvertebra
+1678 	Nakarkos Hide
+1679 	Nakarkos Azurehide
+1680 	Nakarkos Arm Brace
+1681 	Scary Nakarkos ArmBrce
+1682 	Nakarkos Fang
+1683 	Nakarkos Cuttlebone
+1684 	Lrg Nakarkos Cuttlebone
+1685 	Nakarkos Soul Orb
+1686 	Nakarkos SecretSoulOrb
+1687 	Radiant Mucus
+1688 	Radiant Mucus+
+1689 	Viscous Radiant Mucus
+1690 	Valstrax Scale+
+1691 	Valstrax Shard
+1692 	Valstrax Carapace
+1693 	Valstrax Cortex
+1694 	Valstrax Claw+
+1695 	Valstrax Hardclaw
+1696 	Valstrax Tail
+1697 	Valstrax Helixtail
+1698 	Valstrax Lancewing
+1699 	Valstrax Lancewing+
+1700 	Valstrax Spineshell
+1701 	Valstrax Spineshell+
+1702 	Red Dragon Mindstone
+1703 	Ruby Dragon Mindstone
+1704 	Burned Husk
+1705 	Shimmering Dragonfluid
+1706 	Golden Silk
+1707 	Ahtal-Ka Gold Cocoon
+1708 	Ahtal-Ka Purple Cocoon
+1709 	Ahtal-Ka Foreblade
+1710 	Iridescent Carapace
+1711 	Ahtal-Ka Pheromone
+1712 	Ahtal-Ka Fine Silk
+1713 	Ahtal-Ka Alluring Gem
+1714 	Royal Pyroxene
+1715 	Map
+1716 	First-aid Med
+1717 	First-aid Med+
+1718 	Ration
+1719 	Portable Spit
+1720 	Mini Whetstone
+1721 	EZ Shock Trap
+1722 	EZ Flash Bomb
+1723 	EZ Sonic Bomb
+1724 	EZ Max Potion
+1725 	EZ Lifepowder
+1726 	EZ Dust of Life
+1727 	EZ Pitfall Trap
+1728 	EZ Barrel Bomb L
+1729 	EZ Hunter's Drink
+1730 	Ballista Ammo
+1731 	One-shot Binder
+1732 	Anti-dragon Bomb
+1733 	Dense Marcoal
+1734 	Paw Pass Ticket
+1735 	EZ Farcaster
+1736 	Rusted Fragment
+1737 	Ancient Fragment
+1738 	Mythical Fragment
+1739 	Sinister Cloth
+1740 	Sinister Darkcloth
+1741 	Sinister Gloomcloth
+1742 	Extravagant Artifact
+1743 	Opulent Artifact
+1744 	Decadent Artifact
+1745 	Broken Statue
+1746 	Large Broken Statue
+1747 	Broken Cat God Statue
+1748 	Dark Piece
+1749 	Dark Stone
+1750 	Felyne Kettle
+1751 	Yukumo Riceflour
+1752 	Doll Parts
+1753 	Weapon Codex
+1754 	Bowgun Codex
+1755 	Deluxe Barrel Timber
+1756 	Ancient Talisman
+1757 	Damaged Amber
+1758 	Cloudy Fragment
+1759 	Strange Mask
+1760 	Sunmarge Crystal
+1761 	Ocean Pyroxene
+1762 	Fluffy White Ball
+1763 	Fluffy Black Ball
+1764 	Fusion Material - Head
+1765 	Fusion Material - Chest
+1766 	Fusion Material - Arms
+1767 	Fusion Material - Waist
+1768 	Fusion Material - Legs
+1769 	F Fusion Material - Head
+1770 	F Fusion Material - Chest
+1771 	Voucher
+1772 	Gourmet Voucher
+1773 	Commendation
+1774 	Commendation G
+1775 	Commendation XX
+1776 	Accolade
+1777 	Accolade G
+1778 	Accolade XX
+1779 	Distinction
+1780 	Privilege
+1781 	Privilege G
+1782 	Triumph
+1783 	Pawprint Stamp
+1784 	Pawprint Ticket
+1785 	Bherna Ticket
+1786 	Bherna Ticket G
+1787 	Kokoto Ticket
+1788 	Kokoto Ticket G
+1789 	Pokke Ticket
+1790 	Pokke Ticket G
+1791 	Yukumo Ticket
+1792 	Yukumo Ticket G
+1793 	Wycademy Ticket
+1794 	Wycademy Ticket G
+1795 	Soaratorium Ticket
+1796 	Pub Ticket
+1797 	Palico Ticket
+1798 	Palico Ticket G
+1799 	Airship Ticket
+1800 	Airship Ticket G
+1801 	Bistro Ticket
+1802 	Bistro Ticket G
+1803 	Trade Ticket
+1804 	Footbath Ticket
+1805 	Bronze Guild Ticket
+1806 	Gold Guild Ticket
+1807 	Blackbelt Ticket
+1808 	Expert Ticket
+1809 	Expert Ticket G
+1810 	Legend Ticket
+1811 	Legend Ticket G
+1812 	VE Ticket
+1813 	VE Deluxe Ticket
+1814 	VE Bronze Ticket
+1815 	VE Silver Ticket
+1816 	VE Golden Ticket
+1817 	VE Cosmic Ticket
+1818 	EX Rathalos Ticket
+1819 	EX Rathalos Ticket S
+1820 	EX Lavasioth Ticket
+1821 	EX Tigrex Ticket
+1822 	EX Tigrex Ticket S
+1823 	EX Zinogre Ticket
+1824 	EX Brachydios Ticket
+1825 	EX Gore Magala Ticket
+1826 	EX S.Magala Ticket
+1827 	EX Daora Ticket
+1828 	EX Chameleos Ticket
+1829 	EX Teostra Ticket
+1830 	EX G.Rathian Ticket
+1831 	EX S.Rathalos Ticket
+1832 	EX Congalala Ticket
+1833 	EX Lao-Shan Lung Ticket
+1834 	EX C.Fatalis Ticket
+1835 	EX Old Fatalis Ticket
+1836 	EX Lao-Shan Ticket S
+1837 	Hyper Hunter I
+1838 	Hyper Hunter II
+1839 	Hyper Hunter III
+1840 	Hyper Hunter IV
+1841 	Hyper Hunter V
+1842 	Hyper Hunter VI
+1843 	Redhelm Hunter I
+1844 	Redhelm Hunter II
+1845 	Redhelm Hunter III
+1846 	Redhelm Hunter IV
+1847 	Redhelm Hunter V
+1848 	Redhelm Hunter VI
+1849 	Redhelm Hunter VII
+1850 	Redhelm Hunter VIII
+1851 	Redhelm Hunter IX
+1852 	Redhelm Hunter X
+1853 	Redhelm Hunter XI
+1854 	Redhelm Hunter XII
+1855 	Redhelm Hunter XIII
+1856 	Redhelm Hunter XIV
+1857 	Redhelm Hunter XV
+1858 	Snowbaron Hunter I
+1859 	Snowbaron Hunter II
+1860 	Snowbaron Hunter III
+1861 	Snowbaron Hunter IV
+1862 	Snowbaron Hunter V
+1863 	Snowbaron Hunter VI
+1864 	Snowbaron Hunter VII
+1865 	Snowbaron Hunter VIII
+1866 	Snowbaron Hunter IX
+1867 	Snowbaron Hunter X
+1868 	Snowbaron Hunter XI
+1869 	Snowbaron Hunter XII
+1870 	Snowbaron Hunter XIII
+1871 	Snowbaron Hunter XIV
+1872 	Snowbaron Hunter XV
+1873 	Stonefist Hunter I
+1874 	Stonefist Hunter II
+1875 	Stonefist Hunter III
+1876 	Stonefist Hunter IV
+1877 	Stonefist Hunter V
+1878 	Stonefist Hunter VI
+1879 	Stonefist Hunter VII
+1880 	Stonefist Hunter VIII
+1881 	Stonefist Hunter IX
+1882 	Stonefist Hunter X
+1883 	Stonefist Hunter XI
+1884 	Stonefist Hunter XII
+1885 	Stonefist Hunter XIII
+1886 	Stonefist Hunter XIV
+1887 	Stonefist Hunter XV
+1888 	Dreadqueen Hunter I
+1889 	Dreadqueen Hunter II
+1890 	Dreadqueen Hunter III
+1891 	Dreadqueen Hunter IV
+1892 	Dreadqueen Hunter V
+1893 	Dreadqueen Hunter VI
+1894 	Dreadqueen Hunter VII
+1895 	Dreadqueen Hunter VIII
+1896 	Dreadqueen Hunter IX
+1897 	Dreadqueen Hunter X
+1898 	Dreadqueen Hunter XI
+1899 	Dreadqueen Hunter XII
+1900 	Dreadqueen Hunter XIII
+1901 	Dreadqueen Hunter XIV
+1902 	Dreadqueen Hunter XV
+1903 	Drilltusk Hunter I
+1904 	Drilltusk Hunter II
+1905 	Drilltusk Hunter III
+1906 	Drilltusk Hunter IV
+1907 	Drilltusk Hunter V
+1908 	Drilltusk Hunter VI
+1909 	Drilltusk Hunter VII
+1910 	Drilltusk Hunter VIII
+1911 	Drilltusk Hunter IX
+1912 	Drilltusk Hunter X
+1913 	Drilltusk Hunter XI
+1914 	Drilltusk Hunter XII
+1915 	Drilltusk Hunter XIII
+1916 	Drilltusk Hunter XIV
+1917 	Drilltusk Hunter XV
+1918 	Silverwind Hunter I
+1919 	Silverwind Hunter II
+1920 	Silverwind Hunter III
+1921 	Silverwind Hunter IV
+1922 	Silverwind Hunter V
+1923 	Silverwind Hunter VI
+1924 	Silverwind Hunter VII
+1925 	Silverwind Hunter VIII
+1926 	Silverwind Hunter IX
+1927 	Silverwind Hunter X
+1928 	Silverwind Hunter XI
+1929 	Silverwind Hunter XII
+1930 	Silverwind Hunter XIII
+1931 	Silverwind Hunter XIV
+1932 	Silverwind Hunter XV
+1933 	Crystalbeard Hunter I
+1934 	Crystalbeard Hunter II
+1935 	Crystalbeard Hunter III
+1936 	Crystalbeard Hunter IV
+1937 	Crystalbeard Hunter V
+1938 	Crystalbeard Hunter VI
+1939 	Crystalbeard Hunter VII
+1940 	Crystalbeard Hunter VIII
+1941 	Crystalbeard Hunter IX
+1942 	Crystalbeard Hunter X
+1943 	Crystalbeard Hunter XI
+1944 	Crystalbeard Hunter XII
+1945 	Crystalbeard Hunter XIII
+1946 	Crystalbeard Hunter XIV
+1947 	Crystalbeard Hunter XV
+1948 	Deadeye Hunter I
+1949 	Deadeye Hunter II
+1950 	Deadeye Hunter III
+1951 	Deadeye Hunter IV
+1952 	Deadeye Hunter V
+1953 	Deadeye Hunter VI
+1954 	Deadeye Hunter VII
+1955 	Deadeye Hunter VIII
+1956 	Deadeye Hunter IX
+1957 	Deadeye Hunter X
+1958 	Deadeye Hunter XI
+1959 	Deadeye Hunter XII
+1960 	Deadeye Hunter XIII
+1961 	Deadeye Hunter XIV
+1962 	Deadeye Hunter XV
+1963 	Dreadking Hunter I
+1964 	Dreadking Hunter II
+1965 	Dreadking Hunter III
+1966 	Dreadking Hunter IV
+1967 	Dreadking Hunter V
+1968 	Dreadking Hunter VI
+1969 	Dreadking Hunter VII
+1970 	Dreadking Hunter VIII
+1971 	Dreadking Hunter IX
+1972 	Dreadking Hunter X
+1973 	Dreadking Hunter XI
+1974 	Dreadking Hunter XII
+1975 	Dreadking Hunter XIII
+1976 	Dreadking Hunter XIV
+1977 	Dreadking Hunter XV
+1978 	Thunderlord Hunter I
+1979 	Thunderlord Hunter II
+1980 	Thunderlord Hunter III
+1981 	Thunderlord Hunter IV
+1982 	Thunderlord Hunter V
+1983 	Thunderlord Hunter VI
+1984 	Thunderlord Hunter VII
+1985 	Thunderlord Hunter VIII
+1986 	Thunderlord Hunter IX
+1987 	Thunderlord Hunter X
+1988 	Thunderlord Hunter XI
+1989 	Thunderlord Hunter XII
+1990 	Thunderlord Hunter XIII
+1991 	Thunderlord Hunter XIV
+1992 	Thunderlord Hunter XV
+1993 	Grimclaw Hunter I
+1994 	Grimclaw Hunter II
+1995 	Grimclaw Hunter III
+1996 	Grimclaw Hunter IV
+1997 	Grimclaw Hunter V
+1998 	Grimclaw Hunter VI
+1999 	Grimclaw Hunter VII
+2000 	Grimclaw Hunter VIII
+2001 	Grimclaw Hunter IX
+2002 	Grimclaw Hunter X
+2003 	Grimclaw Hunter XI
+2004 	Grimclaw Hunter XII
+2005 	Grimclaw Hunter XIII
+2006 	Grimclaw Hunter XIV
+2007 	Grimclaw Hunter XV
+2008 	Hellblade Hunter I
+2009 	Hellblade Hunter II
+2010 	Hellblade Hunter III
+2011 	Hellblade Hunter IV
+2012 	Hellblade Hunter V
+2013 	Hellblade Hunter VI
+2014 	Hellblade Hunter VII
+2015 	Hellblade Hunter VIII
+2016 	Hellblade Hunter IX
+2017 	Hellblade Hunter X
+2018 	Hellblade Hunter XI
+2019 	Hellblade Hunter XII
+2020 	Hellblade Hunter XIII
+2021 	Hellblade Hunter XIV
+2022 	Hellblade Hunter XV
+2023 	Nightcloak Hunter I
+2024 	Nightcloak Hunter II
+2025 	Nightcloak Hunter III
+2026 	Nightcloak Hunter IV
+2027 	Nightcloak Hunter V
+2028 	Rustrazor Hunter I
+2029 	Rustrazor Hunter II
+2030 	Rustrazor Hunter III
+2031 	Rustrazor Hunter IV
+2032 	Rustrazor Hunter V
+2033 	Soulseer Hunter I
+2034 	Soulseer Hunter II
+2035 	Soulseer Hunter III
+2036 	Soulseer Hunter IV
+2037 	Soulseer Hunter V
+2038 	Boltreaver Hunter I
+2039 	Boltreaver Hunter II
+2040 	Boltreaver Hunter III
+2041 	Boltreaver Hunter IV
+2042 	Boltreaver Hunter V
+2043 	Elderfrost Hunter I
+2044 	Elderfrost Hunter II
+2045 	Elderfrost Hunter III
+2046 	Elderfrost Hunter IV
+2047 	Elderfrost Hunter V
+2048 	Bloodbath Hunter I
+2049 	Bloodbath Hunter II
+2050 	Bloodbath Hunter III
+2051 	Bloodbath Hunter IV
+2052 	Bloodbath Hunter V
+2053 	Royal Honey
+2054 	Unique Mushroom
+2055 	Choice Mushroom
+2056 	Ripened Mushroom
+2057 	Great Shroom
+2058 	Abyssal Mushroom
+2059 	Super Sprout
+2060 	Tropical Berry
+2061 	Mountain Herbs
+2062 	Unique Fern
+2063 	Choice Fern
+2064 	Goldenfish
+2065 	Silverfish
+2066 	Brocadefish
+2067 	King Brocadefish
+2068 	Premium Sashimi
+2069 	Royal Rhino
+2070 	Divine Rhino
+2071 	Silver Cricket
+2072 	Gold Cricket
+2073 	Immortal Moth
+2074 	Large Immortal Moth
+2075 	Auristone Piece
+2076 	Auristone Chunk
+2077 	Balmstone Piece
+2078 	Balmstone Chunk
+2079 	Dragon Amber Piece
+2080 	Dragon Amber Chunk
+2081 	Crystal Bone
+2082 	Bloodstone
+2083 	Deep Bloodstone
+2084 	Coal
+2085 	Volatile Coal
+2086 	Fossilized Bone
+2087 	Decayed Scale
+2088 	White Liver
+2089 	Slagtoth Oil
+2090 	Secret Stash
+2091 	Round Acorn
+2092 	Fine Stomach
+2093 	Luminous Stomach
+2094 	Monster Guts
+2095 	Piscine Liver
+2096 	Popo Tongue
+2097 	Apceros Liver
+2098 	Ancient Berry
+2099 	Water Lily Root
+2100 	Water Lily Tuber
+2101 	Moofah Fur
+2102 	Beautiful Shell
+2103 	Comet Rock
+2104 	Tall Mushroom
+2105 	Gargwa Egg
+2106 	Gold Gargwa Egg
+2107 	Wyvern Egg
+2108 	Sootstone Ore
+2109 	Quartz Ore
+2110 	Powderstone
+2111 	Carnivore Egg
+2112 	Meteor Chunk
+2113 	Eternal Fossil
+2114 	Herbivore Egg
+2115 	Cannon Ammo
+2116 	Guild Flag
+2117 	Gargwa Guano
+2118 	Territorial Dung
+2119 	Territorial Dung+
+2120 	Drone Substance
+2121 	Queen Substance
+2122 	Toad Tear
+2123 	Large Toad Tear
+2124 	Carapaceon Brains
+2125 	Carapaceon Brains+
+2126 	Crab Pearl
+2127 	Crab Pearl+
+2128 	Wyvern Tear
+2129 	Large Wyvern Tear
+2130 	Beast Tear
+2131 	Large Beast Tear
+2132 	Dragon Treasure
+2133 	Old Dragon Treasure
+2134 	Frenzy Shard
+2135 	Frenzy Crystal
+2136 	Vile Frenzy Crystal
+2137 	Khezu Whelp
+2138 	Khezu Coin
+2139 	Najarala Coin
+2140 	Rathalos Coin
+2141 	Kecha Coin
+2142 	Plesioth Coin
+2143 	Brachydios Coin
+2144 	Gypceros Coin
+2145 	Drome Coin
+2146 	Garuga Coin
+2147 	Uragaan Coin
+2148 	Seregios Coin
+2149 	Tetsucabra Coin
+2150 	Congalala Coin
+2151 	Horns Coin
+2152 	Humble Scrap
+2153 	Humble Scrap+
+2154 	Heavy Humble Scrap
+2155 	Handsome Scrap
+2156 	Handsome Scrap+
+2157 	Heavy Handsome Scrap
+2158 	Ore Scrap
+2159 	Ore Scrap+
+2160 	Heavy Ore Scrap
+2161 	Insect Scrap
+2162 	Insect Scrap+
+2163 	Heavy Insect Scrap
+2164 	Bone Scrap
+2165 	Bone Scrap+
+2166 	Heavy Bone Scrap
+2167 	Wood Scrap
+2168 	Wood Scrap+
+2169 	Heavy Wood Scrap
+2170 	Fur Scrap
+2171 	Fur Scrap+
+2172 	Heavy Fur Scrap
+2173 	Rhenoplos Scrap
+2174 	Rhenoplos Scrap+
+2175 	Heavy Rhenoplos Scrap
+2176 	Slagtoth Scrap+
+2177 	Bnahabra Scrap
+2178 	Bnahabra Scrap+
+2179 	Heavy Bnahabra Scrap
+2180 	Great Jaggi Scrap
+2181 	Great Jaggi Scrap+
+2182 	Hvy Great Jaggi Scrap
+2183 	Maccao Scrap
+2184 	Maccao Scrap+
+2185 	Heavy Maccao Scrap
+2186 	Velociprey Scrap
+2187 	Velociprey Scrap+
+2188 	Heavy Velociprey Scrap
+2189 	Giaprey Scrap+
+2190 	Heavy Giaprey Scrap
+2191 	Genprey Scrap
+2192 	Genprey Scrap+
+2193 	Heavy Genprey Scrap
+2194 	Ioprey Scrap
+2195 	Ioprey Scrap+
+2196 	Heavy Ioprey Scrap
+2197 	Arzuros Scrap
+2198 	Arzuros Scrap+
+2199 	Heavy Arzuros Scrap
+2200 	Redhelm Scrap
+2201 	Prime Redhelm Scrap
+2202 	Elite Redhelm Scrap
+2203 	Perfect Redhelm Scrap
+2204 	Lagombi Scrap
+2205 	Lagombi Scrap+
+2206 	Heavy Lagombi Scrap
+2207 	Snowbaron Scrap
+2208 	Prime Snowbaron Scrap
+2209 	Elite Snowbaron Scrap
+2210 	Perfect Snowbaron Scrap
+2211 	Volvidon Scrap
+2212 	Volvidon Scrap+
+2213 	Heavy Volvidon Scrap
+2214 	Yian Kut-Ku Scrap
+2215 	Yian Kut-Ku Scrap+
+2216 	Heavy Yian Kut-Ku Scrap
+2217 	Hyper Kut-Ku Scrap
+2218 	Hyper Kut-Ku Scrap X
+2219 	Gypceros Scrap
+2220 	Gypceros Scrap+
+2221 	Heavy Gypceros Scrap
+2222 	Hyper Gypceros Scrap
+2223 	Hyper Gypceros Scrap X
+2224 	Malfestio Scrap
+2225 	Malfestio Scrap+
+2226 	Heavy Malfestio Scrap
+2227 	Hyper Malfestio Scrap
+2228 	Hyper Malfestio Scrap X
+2229 	Elite Nightcloak Scrap
+2230 	Perf. Nightcloak Scrap
+2231 	Yian Garuga Scrap
+2232 	Yian Garuga Scrap+
+2233 	Hvy Yian Garuga Scrap
+2234 	Hyper Garuga Scrap
+2235 	Hyper Garuga Scrap X
+2236 	Deadeye Scrap
+2237 	Prime Deadeye Scrap
+2238 	Elite Deadeye Scrap
+2239 	Perfect Deadeye Scrap
+2240 	Bulldrome Scrap
+2241 	Bulldrome Scrap+
+2242 	Heavy Bulldrome Scrap
+2243 	Congalala Scrap+
+2244 	Heavy Congalala Scrap
+2245 	Hyper Congalala Scrap
+2246 	Blangonga Scrap
+2247 	Blangonga Scrap+
+2248 	Heavy Blangonga Scrap
+2249 	Hyper Blangonga Scrap
+2250 	Hypr Blangonga Scrap X
+2251 	Kecha Wacha Scrap+
+2252 	Hvy Kecha Wacha Scrap
+2253 	Hyper Kecha Scrap
+2254 	Hyper Kecha Scrap X
+2255 	Cephalos Scrap
+2256 	Cephalos Scrap+
+2257 	Heavy Cephalos Scrap
+2258 	Plesioth Scrap+
+2259 	Heavy Plesioth Scrap
+2260 	Hyper Plesioth Scrap
+2261 	Hyper Plesioth Scrap X
+2262 	Lavasioth Scrap+
+2263 	Heavy Lavasioth Scrap
+2264 	Hyper Lavasioth Scrap
+2265 	Hyper Lavasioth Scrap X
+2266 	Royal Ludroth Scrap
+2267 	Royal Ludroth Scrap+
+2268 	Heavy R.Ludroth Scrap
+2269 	Hyper R.Ludroth Scrap
+2270 	Hyper R.Ludroth Scrap X
+2271 	Nibelsnarf Scrap
+2272 	Nibelsnarf Scrap+
+2273 	Heavy Nibelsnarf Scrap
+2274 	Hyper Nibelsnarf Scrap
+2275 	Hypr Nibelsnarf Scrap X
+2276 	Lagiacrus Scrap
+2277 	Lagiacrus Scrap+
+2278 	Heavy Lagiacrus Scrap
+2279 	Hyper Lagiacrus Scrap
+2280 	Hyper Lagiacrus Scrap X
+2281 	Agnaktor Scrap+
+2282 	Heavy Agnaktor Scrap
+2283 	Hyper Agnaktor Scrap
+2284 	Hyper Agnaktor Scrap X
+2285 	Tetsucabra Scrap
+2286 	Tetsucabra Scrap+
+2287 	Heavy Tetsucabra Scrap
+2288 	Hyper Tetsu. Scrap
+2289 	Hyper Tetsu. Scrap X
+2290 	Drilltusk Scrap
+2291 	Prime Drilltusk Scrap
+2292 	Elite Drilltusk Scrap
+2293 	Perfect Drilltusk Scrap
+2294 	Zamtrios Scrap+
+2295 	Heavy Zamtrios Scrap
+2296 	Hyper Zamtrios Scrap
+2297 	Hyper Zamtrios Scrap X
+2298 	Najarala Scrap
+2299 	Najarala Scrap+
+2300 	Heavy Najarala Scrap
+2301 	Hyper Najarala Scrap
+2302 	Hyper Najarala Scrap X
+2303 	Hermitaur Scrap
+2304 	Hermitaur Scrap+
+2305 	Heavy Hermitaur Scrap
+2306 	Hyper Hermitaur Scrap
+2307 	Hypr Hermitaur Scrap X
+2308 	Stonefist Scrap
+2309 	Prime Stonefist Scrap
+2310 	Elite Stonefist Scrap
+2311 	Perfect Stonefist Scrap
+2312 	Shogun Scrap
+2313 	Shogun Scrap+
+2314 	Heavy Shogun Scrap
+2315 	Hyper Shogun Scrap
+2316 	Hyper Shogun Scrap X
+2317 	Elite Rustrazor Scrap
+2318 	Perfect Rustrazor Scrap
+2319 	Nerscylla Scrap+
+2320 	Heavy Nerscylla Scrap
+2321 	Hyper Nerscylla Scrap X
+2322 	Seltas Queen Scrap+
+2323 	Heavy S.Queen Scrap
+2324 	Hyper S.Queen Scrap
+2325 	Hyper S.Queen Scrap X
+2326 	Barroth Scrap+
+2327 	Heavy Barroth Scrap
+2328 	Hyper Barroth Scrap X
+2329 	Uragaan Scrap
+2330 	Uragaan Scrap+
+2331 	Heavy Uragaan Scrap
+2332 	Hyper Uragaan Scrap
+2333 	Hyper Uragaan Scrap X
+2334 	Crystalbeard Scrap
+2335 	Prime C.beard Scrap
+2336 	Elite C.beard Scrap
+2337 	Perfect C.beard Scrap
+2338 	Brach Scrap
+2339 	Brach Scrap+
+2340 	Heavy Brach Scrap
+2341 	Hyper Brach Scrap
+2342 	Hyper Brach Scrap X
+2343 	Duramboros Scrap+
+2344 	Heavy Duram Scrap
+2345 	Hyper Duram Scrap
+2346 	Hyper Duram Scrap X
+2347 	Khezu Scrap
+2348 	Khezu Scrap+
+2349 	Heavy Khezu Scrap
+2350 	Hyper Khezu Scrap
+2351 	Hyper Khezu Scrap X
+2352 	Nargacuga Scrap
+2353 	Nargacuga Scrap+
+2354 	Heavy Nargacuga Scrap
+2355 	Hyper Nargacuga Scrap
+2356 	Hyper Narga Scrap X
+2357 	Silverwind Scrap
+2358 	Prime Silverwind Scrap
+2359 	Elite Silverwind Scrap
+2360 	Perfect Silverwind Scrap
+2361 	Barioth Scrap+
+2362 	Heavy Barioth Scrap
+2363 	Hyper Barioth Scrap X
+2364 	Basarios Scrap+
+2365 	Heavy Basarios Scrap
+2366 	Hyper Basarios Scrap X
+2367 	Gravios Scrap+
+2368 	Heavy Gravios Scrap
+2369 	Hyper Gravios Scrap X
+2370 	Rathian Scrap
+2371 	Rathian Scrap+
+2372 	Heavy Rathian Scrap
+2373 	Hyper Rathian Scrap
+2374 	Hyper Rathian Scrap X
+2375 	Dreadqueen Scrap
+2376 	Prime Dreadqueen Scrap
+2377 	Elite Dreadqueen Scrap
+2378 	Perfect Drdqueen Scrap
+2379 	Rathalos Scrap
+2380 	Rathalos Scrap+
+2381 	Heavy Rathalos Scrap
+2382 	Hyper Rathalos Scrap
+2383 	Hyper Rathalos Scrap X
+2384 	Dreadking Scrap
+2385 	Prime Dreadking Scrap
+2386 	Elite Dreadking Scrap
+2387 	Perfect Dreadking Scrap
+2388 	Zinogre Scrap
+2389 	Zinogre Scrap+
+2390 	Heavy Zinogre Scrap
+2391 	Hyper Zinogre Scrap
+2392 	Hyper Zinogre Scrap X
+2393 	Thunderlord Scrap
+2394 	Prime Thunderlord Scrap
+2395 	Elite Thunderlord Scrap
+2396 	Perf. Thunderlord Scrap
+2397 	Astalos Scrap
+2398 	Astalos Scrap+
+2399 	Heavy Astalos Scrap
+2400 	Hyper Astalos Scrap
+2401 	Hyper Astalos Scrap X
+2402 	Elite Boltreaver Scrap
+2403 	Perfect Boltreaver Scrap
+2404 	Gammoth Scrap
+2405 	Gammoth Scrap+
+2406 	Heavy Gammoth Scrap
+2407 	Hyper Gammoth Scrap
+2408 	Hypr Gammoth Scrap X
+2409 	Elite Elderfrost Scrap
+2410 	Perfect Elderfrost Scrap
+2411 	Mizutsune Scrap
+2412 	Mizutsune Scrap+
+2413 	Heavy Mizutsune Scrap
+2414 	Hyper Mizutsune Scrap
+2415 	Hyper Mizutsune Scrap X
+2416 	Elite Soulseer Scrap
+2417 	Perfect Soulseer Scrap
+2418 	Glavenus Scrap
+2419 	Glavenus Scrap+
+2420 	Heavy Glavenus Scrap
+2421 	Hyper Glavenus Scrap
+2422 	Hyper Glavenus Scrap X
+2423 	Hellblade Scrap
+2424 	Prime Hellblade Scrap
+2425 	Elite Hellblade Scrap
+2426 	Perfect Hellblade Scrap
+2427 	Tigrex Scrap
+2428 	Tigrex Scrap+
+2429 	Heavy Tigrex Scrap
+2430 	Hyper Tigrex Scrap
+2431 	Hyper Tigrex Scrap X
+2432 	Grimclaw Scrap
+2433 	Prime Grimclaw Scrap
+2434 	Elite Grimclaw Scrap
+2435 	Perfect Grimclaw Scrap
+2436 	Seregios Scrap
+2437 	Seregios Scrap+
+2438 	Heavy Seregios Scrap
+2439 	Hyper Seregios Scrap
+2440 	Hyper Seregios Scrap X
+2441 	Diablos Scrap+
+2442 	Heavy Diablos Scrap
+2443 	Hyper Diablos Scrap X
+2444 	Elite Bloodbath Scrap
+2445 	Perfect Bloodbath Scrap
+2446 	Gore Magala Scrap
+2447 	Gore Magala Scrap+
+2448 	Heavy G.Magala Scrap
+2449 	Hyper G.Magala Scrap
+2450 	Hyper G.Magala Scrap X
+2451 	Heavy Chaotic Scrap
+2452 	Shagaru Magala Scrap
+2453 	S.Magala Scrap+
+2454 	Heavy S.Magala Scrap
+2455 	Rajang Scrap+
+2456 	Heavy Rajang Scrap
+2457 	Hyper Rajang Scrap
+2458 	Hyper Rajang Scrap X
+2459 	Deviljho Scrap+
+2460 	Heavy Deviljho Scrap
+2461 	Hyper Deviljho Scrap
+2462 	Hyper Deviljho Scrap X
+2463 	Kirin Scrap
+2464 	Kirin Scrap+
+2465 	Heavy Kirin Scrap
+2466 	Kushala Daora Scrap
+2467 	Kushala Daora Scrap+
+2468 	Heavy K.Daora Scrap
+2469 	Chameleos Scrap
+2470 	Chameleos Scrap+
+2471 	Heavy Chameleos Scrap
+2472 	Teostra Scrap
+2473 	Teostra Scrap+
+2474 	Heavy Teostra Scrap
+2475 	Akantor Scrap+
+2476 	Heavy Akantor Scrap
+2477 	Ukanlos Scrap+
+2478 	Heavy Ukanlos Scrap
+2479 	Alatreon Scrap+
+2480 	Heavy Alatreon Scrap
+2481 	Amatsu Scrap+
+2482 	Heavy Amatsu Scrap
+2483 	Heavy Lao Shan Scrap
+2484 	Heavy Fatalis Scrap
+2485 	Heavy C.Fatalis Scrap
+2486 	Heavy O.Fatalis Scrap
+2487 	Husk Scrap
+2488 	Husk Scrap+
+2489 	Heavy Husk Scrap
+2490 	Nakarkos Scrap+
+2491 	Heavy Narkakos Scrap
+2492 	Valstrax Scrap+
+2493 	Heavy Valstrax Scrap
+2494 	Heavy Ahtal-Ka Scrap
+2495 	Hyper Scrap
+2496 	Hyper Scrap+
+2497 	Hyper Scrap X
+2498 	Hyper Scrap XX
+2499 	Irregular Scrap
+2500 	Prime Irregular Scrap
+2501 	Elite Irregular Scrap
+2502 	Rathian Item
+2503 	Gold Rathian Item
+2504 	Dreadqueen Item
+2505 	Rathalos Item
+2506 	Silver Rathalos Item
+2507 	Dreadking Item
+2508 	Khezu Item
+2509 	Yian Kut-Ku Item
+2510 	Gypceros Item
+2511 	Plesioth Item
+2512 	Kirin Item
+2513 	Velocidrome Item
+2514 	Gendrome Item
+2515 	Iodrome Item
+2516 	Cephadrome Item
+2517 	Yian Garuga Item
+2518 	Deadeye Item
+2519 	Daimyo Hermitaur Item
+2520 	Stonefist Item
+2521 	Shogun Ceanataur Item
+2522 	Blangonga Item
+2523 	Rajang Item
+2524 	Furious Rajang Item
+2525 	Kushala Daora Item
+2526 	Chameleos Item
+2527 	Teostra Item
+2528 	Bulldrome Item
+2529 	Tigrex Item
+2530 	Grimclaw Item
+2531 	Akantor Item
+2532 	Lavasioth Item
+2533 	Nargacuga Item
+2534 	Silverwind Item
+2535 	Ukanlos Item
+2536 	Deviljho Item
+2537 	Savage Deviljho Item
+2538 	Uragaan Item
+2539 	Crystalbeard Item
+2540 	Lagiacrus Item
+2541 	Royal Ludroth Item
+2542 	Agnaktor Item
+2543 	Alatreon Item
+2544 	Duramboros Item
+2545 	Nibelsnarf Item
+2546 	Zinogre Item
+2547 	Thunderlord Item
+2548 	Amatsu Item
+2549 	Arzuros Item
+2550 	Redhelm Item
+2551 	Lagombi Item
+2552 	Snowbaron Item
+2553 	Volvidon Item
+2554 	Brachydios Item
+2555 	Kecha Wacha Item
+2556 	Tetsucabra Item
+2557 	Drilltusk Item
+2558 	Zamtrios Item
+2559 	Najarala Item
+2560 	Seltas Queen Item
+2561 	Gore Magala Item
+2562 	Shagaru Magala Item
+2563 	Seltas Item
+2564 	Seregios Item
+2565 	Malfestio Item
+2566 	Glavenus Item
+2567 	Hellblade Item
+2568 	Astalos Item
+2569 	Mizutsune Item
+2570 	Gammoth Item
+2571 	Nakarkos Item
+2572 	Great Maccao Item
+2573 	Aptonoth Item
+2574 	Apceros Item
+2575 	Kelbi Item
+2576 	Mosswine Item
+2577 	Hornetaur Item
+2578 	Vespoid Item
+2579 	Velociprey Item
+2580 	Genprey Item
+2581 	Ioprey Item
+2582 	Cephalos Item
+2583 	Bullfango Item
+2584 	Popo Item
+2585 	Giaprey Item
+2586 	Anteka Item
+2587 	Remobra Item
+2588 	Hermitaur Item
+2589 	Ceanataur Item
+2590 	Blango Item
+2591 	Rhenoplos Item
+2592 	Bnahabra Item
+2593 	Altaroth Item
+2594 	Jaggi Item
+2595 	Jaggia Item
+2596 	Ludroth Item
+2597 	Uroktor Item
+2598 	Slagtoth Item
+2599 	Gargwa Item
+2600 	Zamite Item
+2601 	Konchu Item
+2602 	Maccao Item
+2603 	Larinoth Item
+2604 	Moofah Item
+2605 	Basarios Item
+2606 	Gravios Item
+2607 	Diablos Item
+2608 	Bloodbath Item
+2609 	Lao-Shan Lung Item
+2610 	Fatalis Item
+2611 	Crimson Fatalis Item
+2612 	Old Fatalis Item
+2613 	Rustrazor Item
+2614 	Congalala Item
+2615 	Giadrome Item
+2616 	Barioth Item
+2617 	Barroth Item
+2618 	Nerscylla Item
+2619 	Chaotic G.Magala Item
+2620 	Raging Brachydios Item
+2621 	Nightcloak Item
+2622 	Boltreaver Item
+2623 	Soulseer Item
+2624 	Elderfrost Item
+2625 	Valstrax Item
+2626 	Ruin Item
+2627 	Empress Item
+2628 	Conga Item
+2629 	Great Thunderbug Item
+2630 	Lagniapple
+2631 	Big Lagniapple
+2632 	Huge Lagniapple
+2633 	Training Guide
+2634 	Training Codex
+2635 	Training Compendium
+2636 	Felyne Codex
+2637 	Timeworn Ballista Shot
+2638 	Antidote Jwl 1
+2639 	Antidote Jwl 2
+2640 	Paralysis Jwl 1
+2641 	Paralysis Jwl 2
+2642 	Pep Jwl 1
+2643 	Pep Jwl 2
+2644 	Steadfast Jwl 1
+2645 	Standfast Jwl 1
+2646 	Earplug Jwl 1
+2647 	Earplug Jwl 3
+2648 	Wind Res Jwl 1
+2649 	Wind Res Jwl 2
+2650 	Footing Jwl 1
+2651 	Tectonic Jwl 1
+2652 	Bind Jwl 1
+2653 	Shackle Jwl 1
+2654 	Heat Res Jwl 1
+2655 	Cold Res Jwl 1
+2656 	Polar Jwl 1
+2657 	Polar Jwl 3
+2658 	Solar Jwl 1
+2659 	Solar Jwl 3
+2660 	Safe Jwl 1
+2661 	Def Lock Jwl 1
+2662 	Sane Jwl 1
+2663 	Sane Jwl 3
+2664 	Biology Jwl 1
+2665 	Microbio Jwl 1
+2666 	Staunch Jwl 1
+2667 	Attack Jwl 1
+2668 	Attack Jwl 2
+2669 	Attack Jwl 3
+2670 	Defense Jwl 1
+2671 	Defense Jwl 2
+2672 	Vitality Jwl 1
+2673 	Fire Res Jwl 1
+2674 	Nul-Fire Jwl 1
+2675 	Water Res Jwl 1
+2676 	Nul-Water Jwl 1
+2677 	ThunderRes Jwl 1
+2678 	Nul-Thundr Jwl 1
+2679 	Ice Res Jwl 1
+2680 	Nul-Ice Jwl 1
+2681 	Dragon Res Jwl 1
+2682 	Nul-Dragon Jwl 1
+2683 	Resistor Jwl 1
+2684 	Resistor Jwl 3
+2685 	Blaze Jwl 1
+2686 	Blaze Jwl 2
+2687 	Stream Jwl 1
+2688 	Stream Jwl 2
+2689 	Bolt Jwl 1
+2690 	Bolt Jwl 2
+2691 	Frost Jwl 1
+2692 	Frost Jwl 2
+2693 	Dragon Jwl 1
+2694 	Dragon Jwl 2
+2695 	Element Jwl 1
+2696 	Element Jwl 3
+2697 	Disabler Jwl 1
+2698 	Disabler Jwl 2
+2699 	Grinder Jwl 1
+2700 	Handicraft Jwl 1
+2701 	Handicraft Jwl 3
+2702 	Razor Jwl 1
+2703 	Razor Jwl 3
+2704 	Fencer Jwl 1
+2705 	Fencer Jwl 3
+2706 	Sharp Jwl 1
+2707 	Sharp Jwl 3
+2708 	Blunt Jwl 1
+2709 	Blunt Jwl 2
+2710 	Draw Jwl 1
+2711 	Draw Jwl 2
+2712 	Gambit Jwl 1
+2713 	Gambit Jwl 3
+2714 	Sheath Jwl 1
+2715 	Sheath Jwl 2
+2716 	Razor Sheath Jwl 1
+2717 	DUMMY
+2718 	DUMMY
+2719 	Bladescale Jwl 1
+2720 	DUMMY
+2721 	Bladescale Jwl 3
+2722 	Quickload Jwl 1
+2723 	Quickload Jwl 2
+2724 	Absorber Jwl 1
+2725 	Absorber Jwl 3
+2726 	Sniper Jwl 1
+2727 	Forceshot Jwl 1
+2728 	Forceshot Jwl 3
+2729 	Pierce Jwl 1
+2730 	Pierce Jwl 3
+2731 	Pellet Jwl 1
+2732 	Pellet Jwl 3
+2733 	Heavyshot Jwl 1
+2734 	Heavyshot Jwl 3
+2735 	ShotPlus Jwl 1
+2736 	ShotPlus Jwl 2
+2737 	PiercePlus Jwl 1
+2738 	PelletPlus Jwl 1
+2739 	CragPlus Jwl 1
+2740 	ClustPlus Jwl 1
+2741 	ClustPlus Jwl 3
+2742 	Poisoncoat Jwl 1
+2743 	Paracoat Jwl 1
+2744 	Paracoat Jwl 2
+2745 	Sleep Jwl 1
+2746 	Powercoat Jwl 1
+2747 	Powercoat Jwl 2
+2748 	Elemcoat Jwl 1
+2749 	Elemcoat Jwl 2
+2750 	Rangecoat Jwl 1
+2751 	Draincoat Jwl 1
+2752 	Blastcoat Jwl 1
+2753 	Salvo Jwl 1
+2754 	Salvo Jwl 3
+2755 	Precise Jwl 1
+2756 	Precise Jwl 2
+2757 	Capacity Jwl 1
+2758 	Capacity Jwl 3
+2759 	Irregular Jwl 1
+2760 	Thrift Jwl 1
+2761 	Thrift Jwl 2
+2762 	Expert Jwl 1
+2763 	Expert Jwl 2
+2764 	Expert Jwl 3
+2765 	Tenderizer Jwl 1
+2766 	Tenderizer Jwl 3
+2767 	Chain Jwl 1
+2768 	Chain Jwl 3
+2769 	Crit Status Jwl 1
+2770 	Crit Status Jwl 2
+2771 	CritElementJwl 1
+2772 	CritElementJwl 2
+2773 	Critical Jwl 1
+2774 	Critical Jwl 3
+2775 	Negative Crit Jwl 1
+2776 	DUMMY
+2777 	Negative Crit Jwl 3
+2778 	Charger Jwl 1
+2779 	Charger Jwl 3
+2780 	Sprinter Jwl 1
+2781 	Sprinter Jwl 3
+2782 	Physique Jwl 1
+2783 	Physique Jwl 2
+2784 	Refresh Jwl 1
+2785 	Refresh Jwl 2
+2786 	Distance Runner Jwl 1
+2787 	Distance Runner Jwl 2
+2788 	DUMMY
+2789 	Evasion Jwl 1
+2790 	Evasion Jwl 2
+2791 	Jumping Jwl 1
+2792 	Jumping Jwl 3
+2793 	Bubble Jwl 1
+2794 	Bubble Jwl 3
+2795 	Ironwall Jwl 1
+2796 	Ironwall Jwl 2
+2797 	Shield Jwl 1
+2798 	Shield Jwl 2
+2799 	KO Jwl 1
+2800 	KO Jwl 2
+2801 	Drain Jwl 1
+2802 	Drain Jwl 2
+2803 	Sonorous Jwl 1
+2804 	Artillery Jwl 1
+2805 	Destroyer Jwl 1
+2806 	Destroyer Jwl 3
+2807 	Bombardier Jwl 1
+2808 	Throttle Jwl 1
+2809 	Throttle Jwl 2
+2810 	Spirit Jwl 1
+2811 	Spirit Jwl 2
+2812 	Flawless Jwl 1
+2813 	Flawless Jwl 2
+2814 	Favor Jwl 1
+2815 	Favor Jwl 3
+2816 	Dragon Spirit Jwl 1
+2817 	DUMMY
+2818 	Dragon Spirit Jwl 3
+2819 	Potential Jwl 1
+2820 	Potential Jwl 2
+2821 	Fortitude Jwl 1
+2822 	Fortitude Jwl 2
+2823 	Furor Jwl 1
+2824 	Furor Jwl 2
+2825 	Crisis Jwl 1
+2826 	Crisis Jwl 2
+2827 	Guts Jwl 1
+2828 	Guts Jwl 2
+2829 	Ninja Jwl 1
+2830 	Player Jwl 1
+2831 	Morale Jwl 1
+2832 	Leader Jwl 1
+2833 	Leader Jwl 2
+2834 	Rodeo Jwl 1
+2835 	Flight Jwl 1
+2836 	Insight Jwl 1
+2837 	Insight Jwl 3
+2838 	Endurance Jwl 1
+2839 	DUMMY
+2840 	DUMMY
+2841 	Extender Jwl 1
+2842 	Extender Jwl 2
+2843 	DUMMY
+2844 	Psychic Jwl 1
+2845 	Perception Jwl 1
+2846 	Ranger Jwl 1
+2847 	Transportr Jwl 1
+2848 	Protection Jwl 1
+2849 	Asylum Jwl 1
+2850 	Hero Jwl 1
+2851 	Hero Jwl 3
+2852 	Medicine Jwl 1
+2853 	Medicine Jwl 2
+2854 	Recovery Jwl 1
+2855 	Recovery Jwl 2
+2856 	Enduring Jwl 1
+2857 	Friendship Jwl 1
+2858 	Friendship Jwl 2
+2859 	Hungerless Jwl 1
+2860 	Metabolism Jwl 1
+2861 	Gobbler Jwl 1
+2862 	Gobbler Jwl 3
+2863 	Satiated Jwl 1
+2864 	Meateater Jwl 1
+2865 	Meatlover Jwl 1
+2866 	Fungiform Jwl 1
+2867 	Grass Jwl 1
+2868 	Professor Jwl 1
+2869 	Factory Jwl 1
+2870 	Trapmaster Jwl 1
+2871 	Gathering Jwl 1
+2872 	Honeybee Jwl 1
+2873 	Queenbee Jwl 1
+2874 	Charmer Jwl 1
+2875 	Charmer Jwl 3
+2876 	Blessing Jwl 1
+2877 	Fate Jwl 1
+2878 	Fate Jwl 3
+2879 	Carver Jwl 1
+2880 	Carver Jwl 3
+2881 	Capture Jwl 1
+2882 	Capture Jwl 3
+2883 	Bell Jwl 1
+2884 	Novice Jwl 1
+2885 	Snowflake Jwl 1
+2886 	Springs Jwl 1
+2887 	Study Jwl 1
+2888 	Skyfeast Jwl 1
+2889 	DUMMY
+2890 	DUMMY
+2891 	DUMMY
+2892 	DUMMY
+2893 	DUMMY
+2894 	DUMMY
+2895 	DUMMY
+2896 	DUMMY
+2897 	DUMMY
+2898 	DUMMY
+2899 	DUMMY
+2900 	Tomato Juice
+2901 	Fairy Tail Mark
+2902 	F Pirate Coin J
+2903 	Cardboard
+2904 	Uniqlo Coin
+2905 	DUMMY
+2906 	DUMMY
+2907 	Soulstone
+2908 	Crows Coin
+2909 	Bicycle Club Application
+2910 	Arena Ticket
+2911 	Grandpaw Coin
+2912 	CoroCoro Ticket
+2913 	Ushio Coin
+2914 	Magi Coin
+2915 	Pluto Stardust
+2916 	Roll of Fate
+2917 	Pirate Ticket J
+2918 	Famitsu Ticket
+2919 	Dengeki Ticket
+2920 	Uniqlo Coin S
+2921 	DUMMY
+2922 	DUMMY
+2923 	DUMMY
+2924 	DUMMY
+2925 	DUMMY
+2926 	Wind Waker
+2927 	Arwing Boarding Pass
+2928 	Super Mushroom
+2929 	Design Pattern
+2930 	Triforce
+2931 	Samus Coin
+2932 	Goddess's Grace
+2933 	Goddess's Embrace
+2934 	SF Coin
+2935 	Red Orb
+2936 	Ceratanium
+2937 	Hero's Seal
+2938 	Baby Journal
+2939 	Sunsnug Journal
+2940 	Fan Club Newsletter
+2941 	Fan Club Application
+2942 	Fan Club Invite
+2943 	Puppet Ticket
+2944 	Great Stone
+2945 	Courier's Letter
+2946 	Kaioh Certificate
+2947 	WORST Coin
+2948 	Evidence
+2949 	Salaryman Coin
+2950 	Taisha-ryu Codex
+2951 	Famitsu Coupon
+2952 	Dengeki Ticket XX
+2953 	Flying Xin Mark
+2954 	Buccaneer Ticket J
+2955 	Magic Realm Key
+2956 	DUMMY
+2957 	Zaruba Fragment
+2958 	DUMMY
+2959 	Turnabout Ticket
+2960 	Navirou Ticket
+2961 	F Spirit Stone
+2962 	Club Promotion
+2963 	JDL Badge
+2964 	DUMMY
+2965 	Silver Crystal
+2966 	Zelda Ticket
+2967 	Zelda Ticket G
+2968 	DUMMY
+2969 	DUMMY
+2970 	DUMMY
+2971 	DUMMY
+2972 	Sealing Shield
+2973 	Option
+2974 	Celestial Scroll
+2975 	Arthur's Armor
+2976 	Zelda Ticket P
+2977 	DUMMY
+2978 	DUMMY
+2979 	DUMMY
+2980 	DUMMY
+2981 	DUMMY
+2982 	DUMMY
+2983 	DUMMY
+2984 	DUMMY
+2985 	DUMMY
+2986 	DUMMY
+2987 	DUMMY
+2988 	DUMMY
+2989 	DUMMY
+2990 	DUMMY
