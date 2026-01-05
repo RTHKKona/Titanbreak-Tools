@@ -58,7 +58,7 @@ Includes backup functionality to prevent data loss.
 ## Installation
 Titanbreak Suite is built using the Python Standard Library. No external pip packages are required.
 
-### Prerequisites
+#### Prerequisites
 Python 3.8 or higher installed on your system.
 Tkinter: This is usually included with Python. However, if you are on Linux, you may need to install it manually:
 ```
