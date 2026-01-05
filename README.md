@@ -71,21 +71,24 @@ Ensure all script files (.py) and the common.py module are in the same directory
 
 ## Usage
 Launch the Suite:
-Run the main launcher script run.bat or type ```python launcher.py```
+* Run the main launcher script run.bat or type ```python launcher.py```
 
-Select a Tool:
-Click on the tab corresponding to the data you wish to edit (e.g., "HP Editor" or "Loot Editor").
+* Click on the tab corresponding to the data you wish to edit (e.g., "HP Editor" or "Loot Editor").
+
 Load Data:
-Click "Load Directory".
-Select the root folder of your game files.
-The editor will automatically scan subdirectories for compatible file patterns.
+* Click "Load Directory".
+* Select the root folder of your game files.
+* The editor will automatically scan subdirectories for compatible file patterns.
+* Note: The expectation is that you are scanning an nativeNX dump that is fully extracted, specifically the enemies/endemic life .arc files. 
+
 Edit Values:
-Edit cells directly (if supported) or use the bulk adjustment controls at the top of the window.
-Select multiple rows or columns to apply changes to specific sets of data.
+* Edit cells directly (if supported) or use the bulk adjustment controls at the top of the window.
+* Select multiple rows or columns to apply changes to specific sets of data.
+
 Save Changes:
-Click "Save All Changes".
-Select a destination directory (often the original game directory or a backup location).
-It is highly recommended to enable the "Create Backups" checkbox before saving.
+* Click "Save All Changes".
+* Select a destination directory (often the original game directory or a backup location).
+* It is highly recommended to enable the "Create Backups" checkbox before saving.
 
 ## Tech Stack
 Language: Python 3.x
